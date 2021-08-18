@@ -8,9 +8,9 @@
 Feel free to contribute! 🎓
 
 # WINDOWS OS
-| Nos. | Clone Type |  Description  | Link to Repo | Live Demo | Screenshot Image/GIF |
-| :--- | :---- | :--------- | :----------| :---------| :----------------- |
-| 01. | Windows 11 | some wordy text | [Click here]( https://github.com/Rajaniraiyn/windows11 )  |
+ Nos. | Clone Type |  Description  | Link to Repo | Live Demo | Screenshot Image/GIF 
+ :--- | :---- | :--------- | :----------| :---------| :----------------- 
+ 01. | Windows 11 | some wordy text | [Click here]( https://github.com/Rajaniraiyn/windows11 )  
 | 02. | Windows 11 | some wordy text | [Click here]( https://github.com/PiyushSuthar/Windows-11-Web )  |
 | 03. | Windows 11 | some wordy text | [Click here]( https://github.com/blueedgetechno/windows11 )  |
 | 04. | Windows 10 Component | some wordy text | [Click here]( https://github.com/virtualvivek/react-windows-ui )  |
