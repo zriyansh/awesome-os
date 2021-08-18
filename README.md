@@ -1,6 +1,8 @@
 # WINDOWS OS
+
+
 | Nos. | Clone |  Description  | Link to Repo | Live Demo | Screenshot Image/GIF |
-| : -- | :-- -- | :----- ---- | :---- -----| :---- ----| :------- --------- |
+| :-- | :---- | :--------- | :---------| :--------| :---------------- |
 | 01. | Windows 11 | some wordy text | [Click here](https://github.com/Rajaniraiyn/windows11)  |
 | 02. | Windows 11 | some wordy text | [Click here](https://github.com/PiyushSuthar/Windows-11-Web )  |
 | 03. | Windows 11 | some wordy text | [Click here](https://github.com/blueedgetechno/windows11 )  |
@@ -14,10 +16,11 @@
 | 11. | Windows and MacOS components | some wordy text | [Click here](https://github.com/gabrielbull/react-desktop  )  |
 | 12. | coming soon | some wordy text | some link  |
 
+----
 
 # LINUX OS
 | Nos. | Clone | Description  | Link to Repo | Live Demo | Screenshot Image/GIF |
-| : -- | :-- -- | :----- ---- | :---- -----| :---- ----| :------- --------- |
+| :-- | :---- | :--------- | :---------| :--------| :---------------- |
 | 01. | Ubuntu | some wordy text | [Click here]( https://github.com/vivek9patel/vivek9patel.github.io  )  |
 | 02. | coming soon | some wordy text | some link  |
 
@@ -28,7 +31,7 @@
 
 # MAC OS
 | Nos. | Clone |  Description  | Link to Repo | Live Demo | Screenshot Image/GIF |
-| : -- | :-- -- | :----- ---- | :---- -----| :---- ----| :------- --------- |
+| :-- | :---- | :--------- | :---------| :--------| :---------------- |
 | 01. | MacOS | some wordy text | [Click here]( https://github.com/PuruVJ/macos-web)  |
 | 02. | MacOS | some wordy text | [Click here]( https://github.com/Renovamen/playground-macos )  |
 | 03. | MacOS Finder | some wordy text | [Click here]( https://github.com/guyariely/finder-clone )  |
