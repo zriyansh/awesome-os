@@ -7,7 +7,7 @@
 ## :octocat: An awesome list that curates the best of all big and small open sourced clones of Linux, Windows and MacOS operating system, their softwares and more.🎉
 Feel free to contribute! 🎓
 
-# WINDOWS OS 💻
+# WINDOWS 💻
  Nos. | Clone Type |  Description  | Link to Repo | Live Demo | Screenshot Image/GIF 
  --- | :---- | :--------- | :----------| :---------| :----------------- 
  |01. | Windows 11 | some wordy text | [Click here]( https://github.com/Rajaniraiyn/windows11 )
@@ -24,7 +24,7 @@ Feel free to contribute! 🎓
  |12. | coming soon | some wordy text | some link  
 
 
-# LINUX OS 🐧
+# LINUX 🐧
  Nos. | Clone Type | Description  | Link to Repo | Live Demo | Screenshot Image/GIF 
  --- | :---- | :--------- | :----------| :---------| :----------------- 
  |01. | Ubuntu | some wordy text | [Click here]( https://github.com/vivek9patel/vivek9patel.github.io )  
@@ -35,7 +35,7 @@ Feel free to contribute! 🎓
 
 
 
-# MAC OS 
+# MACINTOSH 
  Nos. | Clone Type |  Description  | Link to Repo | Live Demo | Screenshot Image/GIF 
  --- | :---- | :--------- | :----------| :---------| :----------------- 
  |01. | MacOS | some wordy text | [Click here]( https://github.com/PuruVJ/macos-web )  
