@@ -1,9 +1,9 @@
  # Awesome OS Clones
 ## :octocat: An awesome list that curates the best of all big and small open sourced clones of 
 
-- Linux🐧  
-- Windows💻  
-- MacOS 
+- 💻 Windows
+-  MacOS 
+- 🐧Linux  
 
 ## operating system, their softwares and more.🎉
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -60,9 +60,23 @@
  |02. | coming soon | some wordy text 
 
 
-## Contributing Guidelines
 
-Please take a look at our [CONTRIBUTING.md](https://github.com/prik-k/awesome-OS-clones/blob/main/CONTRIBUTING.md) file.
+## :restroom: &nbsp;For whom?
+
+For everyone, really. Here everyone can find their favourite taste of Operating System. Have fun exploring and if you find some cool projects like these which are missing here then do tell us!. 
+
+## :information_source: &nbsp;Contributing
+
+If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
+
+Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. You should also remember about this:
+
+```diff
++ This repository is not meant to contain everything but only good quality stuff.
+```
+
+All **suggestions/PR** are welcome!
+
 
 ## To Do
  - [ ] Add Microsoft Windows logo emoji
