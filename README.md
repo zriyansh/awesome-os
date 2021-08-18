@@ -1,9 +1,3 @@
-
-<div align="center">
-	<img width="300" height="200" src="media/logo.svg" alt="Awesome">	<br>
-	<hr>
-</div>
-
 ## :octocat: An awesome list that curates the best of all big and small open sourced clones of 
 
 - Linux🐧  
@@ -16,8 +10,13 @@
 <p align="center">
   <a href="https://github.com/prik-k/awesome-OS-clones/stargazers"><img src="https://img.shields.io/github/stars/prik-k/awesome-os-clones.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/https://github.com/prik-k/awesome-OS-clones/issues"><img src="https://img.shields.io/github/issues/prik-k/awesome-os-clones.svg?style=popout-square" alt="GitHub issues"></a>
+<a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
+  </a>
+  <a href="LICENSE.md">
+    <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
+  </a>
 </p>
-
 Feel free to contribute! 🎓
 
 
