@@ -18,8 +18,14 @@
     <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
   </a>
 </p>
-Feel free to contribute! 🎓
 
+<div align="center">
+  <sub>Created by
+  <a href="https://twitter.com/priyanskhodiyar">Priyansh</a> and
+  <a href="https://github.com/prik-k/awesome-OS-clones/graphs/contributors">contributors</a>
+</div>
+ 
+ Feel free to contribute! 🎓
 
 
 # 💻 WINDOWS
@@ -57,6 +63,10 @@ Feel free to contribute! 🎓
 ## Contributing Guidelines
 
 Please take a look at our [CONTRIBUTING.md](https://github.com/prik-k/awesome-OS-clones/blob/main/CONTRIBUTING.md) file.
+
+## To Do
+ - [ ] Add Microsoft Windows logo emoji
+ - [ ] Add mentions to the original repository admins 
 
 :shipit:
 :trollface:
