@@ -3,9 +3,9 @@
 
 
 
-- 💻 [Windows](https://github.com/prik-k/awesome-OS#-windows)
-- &nbsp; &nbsp; [MacOS](https://github.com/prik-k/awesome-OS#-macintosh) 
-- 🐧&nbsp; [Linux](https://github.com/prik-k/awesome-OS#-linux)  
+- [Windows](https://github.com/prik-k/awesome-OS#-windows)
+- [MacOS](https://github.com/prik-k/awesome-OS#-macintosh) 
+- [Linux](https://github.com/prik-k/awesome-OS#-linux)  
 
 
 
