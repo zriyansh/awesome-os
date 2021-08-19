@@ -137,6 +137,10 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 
  
  
+- What is the answer of Life, the Universe, and Everything?
+  - 42
+
+    ![answer](media/answer.png)
  
 ```diff
 + This repository is not meant to contain everything but only good quality stuff.
