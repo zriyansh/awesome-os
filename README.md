@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://github.com/prik-k/awesome-OS-clones/stargazers"><img src="https://img.shields.io/github/stars/prik-k/awesome-os-clones.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/https://github.com/prik-k/awesome-OS-clones/issues"><img src="https://img.shields.io/github/issues/prik-k/awesome-os-clones.svg?style=popout-square" alt="GitHub issues"></a>
+ <a href="https://github.com/https://github.com/prik-k/awesome-OS-clones/forks"><img src="https://img.shields.io/github/forks/prik-k/awesome-os-clones.svg?style=popout-square" alt="GitHub forks"></a>
 <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
