@@ -26,7 +26,7 @@
   <a href="https://github.com/prik-k/awesome-OS-clones/graphs/contributors">contributors</a>
 </div>
  
- Feel free to contribute! 🎓
+ Feel free to contribute and star ⭐️ if this was awesome! 🎓
 
 
 # 💻 WINDOWS
