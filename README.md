@@ -34,7 +34,7 @@
 <div align="center">
   <sub>Created by
   <a href="https://twitter.com/priyanskhodiyar">Priyansh</a> and
-  <a href="https://github.com/prik-k/awesome-OS-clones/graphs/contributors">contributors</a>
+  <a href="https://github.com/prik-k/awesome-OS-clones/graphs/contributors">contributors</a></sub>
 </div>
  
  Feel free to contribute and star ⭐️ if this was awesome! 🎓
