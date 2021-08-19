@@ -1,6 +1,7 @@
 
 
-# Awesome OS
+# Awesome OS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 
 ##   :octocat:    An awesome list that curates the best of all big and small open source projects on
@@ -15,7 +16,7 @@
 
 
 ## operating systems, their software and more by these [heros](https://github.com/prik-k/awesome-OS/discussions/4).🎉
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 
 
