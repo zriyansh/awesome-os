@@ -56,7 +56,7 @@
  |07. | [Windows XP MS Paint]( https://github.com/1j01/jspaint ) | 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras  <br> `NODEJS` `HTML5 Canvas` `CSS` `JS` ~ [@1j01]( https://github.com/1j01 ) | [here]( https://jspaint.app/#local:9fdbb2f31c0bb8 )
  |08. | [Windows 95]( https://github.com/felixrieseberg/windows95 )  | 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows. <br> `Electron` `TS` `Docker` `JS` ~ [@Felixrieseberg]( https://github.com/felixrieseberg ) | [here]( https://github.com/felixrieseberg/windows95/releases/tag/v2.3.0 )
  |09. | [Pokédex]( https://github.com/wobsoriano/poke95 )  | 🚀 A Windows 95 style Pokédex built with React.  <br> `React` `React95` `PokeAPI` `Vercel` `HTML` `CSS` `JS` ~ [@Wobsoriano](  https://github.com/wobsoriano) | [here]( https://poke95.vercel.app )
- |10. | [Windows 95 React]( https://github.com/arturbien/React95 ) | 🌈🕹 Refreshed Windows 95 style UI components for your React app  <br> `React95` `JS` ~ [@Arturbien]( https://github.com/arturbien ) | [here]( https://react95.io/# )
+ |10. | [Windows 95 React]( https://github.com/arturbien/React95 ) | 🌈🕹 Refreshed Windows 95 style UI components for your React app  <br> `React` `JS` ~ [@Arturbien]( https://github.com/arturbien ) | [here]( https://react95.io/# )
  |11. | [Windows/macOS]( https://github.com/gabrielbull/react-desktop ) | React UI Components for macOS High Sierra and Windows 10 <br> `React` `JS` ~ [@GabrielBull]( https://github.com/gabrielbull ) | [here]( http://reactdesktop.js.org ) 
  |12. | [coming soon] | some wordy text 
  
@@ -95,8 +95,24 @@
 
  <hr>
  
-## :restroom: &nbsp;Tech Stack Used
-
+## ✨ &nbsp;Tech Stack Used
+ - [React](https://reactjs.org)
+ - [Preact](https://preactjs.com)
+ - [ViteJs](https://vitejs.dev)
+ - [Electron](https://www.electronjs.org)
+ - [NodeJS](https://nodejs.org/en/)
+ - [Svelte](https://svelte.dev)
+ - [Netlify](https://www.netlify.com)
+ - [Vercel](https://vercel.com)
+ - [Docker](https://www.docker.com)
+ - [JS](https://www.w3schools.com/js/js_intro.asp)
+ - [TS](https://www.typescriptlang.org)
+ - [Tailwind CSS](https://tailwindcss.com)
+ - [SCSS](https://sass-lang.com)
+ - [CSS](https://www.w3schools.com/css/)
+ - [HTML5](https://www.w3schools.com/html/)
+ - [PokeAPI](https://pokeapi.co)
+ - [Fontawesome](https://fontawesome.com)
 
  
  
@@ -126,7 +142,7 @@ All **suggestions/PR** are welcome!
 
  
  
-## To Do
+## ⏭ To Do
  - [ ] Add Microsoft Windows logo emoji
  - [x] Add mentions to the original repository admins 
  - [ ] Add new stuff
