@@ -1,9 +1,9 @@
  # Awesome OS
 ## :octocat: An awesome list that curates the best of all big and small open sourced clones of 
 
-- 💻 Windows
--  MacOS 
-- 🐧Linux  
+- 💻 [Windows](https://github.com/prik-k/awesome-OS#-windows)
+-  [MacOS](https://github.com/prik-k/awesome-OS#-macintosh) 
+- 🐧[Linux](https://github.com/prik-k/awesome-OS#-linux)  
 
 ## operating system, their softwares and more.🎉
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
