@@ -51,11 +51,12 @@
 #  MACINTOSH
  Nos. |  Repo |  Description  | Demo/Docs  | Shout-out
  --- | :---- | :--------- | :----------| :----------------- 
- |01. | [macOS]( https://github.com/PuruVJ/macos-web ) | some wordy text    | [here]( https://macos.vercel.app )
- |02. | [macOS]( https://github.com/Renovamen/playground-macos ) | some wordy text    | [here]( https://portfolio.zxh.io )
- |03. | [macOS Finder]( https://github.com/guyariely/finder-clone )  | some wordy text   | [here]( https://finder-clone.netlify.app )
- |04. | [macOS/Windows]( https://github.com/gabrielbull/react-desktop ) | macOS and Windows Components   | [here]( http://reactdesktop.js.org ) 
- |05. | coming soon | some wordy text 
+ |01. | [macOS]( https://github.com/PuruVJ/macos-web ) | This open source project aims to replicate some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!    | [here]( https://macos.vercel.app )
+ |02. | [macOS]( https://github.com/puruvj/macos-preact) | [Legacy]This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like HTML, CSS and JS | [here](https://macos-preact.vercel.app)
+ |03. | [macOS]( https://github.com/Renovamen/playground-macos ) | Portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.    | [here]( https://portfolio.zxh.io )
+ |04. | [macOS Finder]( https://github.com/guyariely/finder-clone )  | A (bare bone!) clone of the macOS "Finder" app 🖱 🖥 (the macOS equivalent of Windows "File Explorer"). Built with React and Sass ⚛️ 👓   | [here]( https://finder-clone.netlify.app )
+ |05. | [macOS/Windows]( https://github.com/gabrielbull/react-desktop ) | React UI Components for macOS High Sierra and Windows 10   | [here]( http://reactdesktop.js.org ) 
+ |06. | coming soon | some wordy text 
 
  **[`^top^`](#)**
 
