@@ -137,10 +137,13 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 
  
  
-- What is the answer of Life, the Universe, and Everything?
-  - 42
+## What is the answer of Life, the Universe, and Everything?
+  - it's 42
 
     ![answer](media/answer.png)
+ 
+ Thanks [@blueedgetechno]( https://github.com/blueedgetechno ) for this!
+
  
 ```diff
 + This repository is not meant to contain everything but only good quality stuff.
