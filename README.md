@@ -1,4 +1,4 @@
- # Awesome OS Clones
+ # Awesome OS
 ## :octocat: An awesome list that curates the best of all big and small open sourced clones of 
 
 - 💻 Windows
@@ -29,7 +29,7 @@
 
 
 # 💻 WINDOWS
- Nos. | Clone Repo |  Description  | Demo/Docs | Screenshots/GIFs
+ Nos. |  Repo |  Description  | Demo/Docs | Screenshots/GIFs
  --- | :---- | :--------- | :----------| :----------------- 
  |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) | some wordy text | [here]( https://rajaniraiyn.github.io/windows11 )
  |02. | [Windows 11]( https://github.com/PiyushSuthar/Windows-11-Web ) | some wordy text  | [here]( https://win11.vercel.app )  
@@ -45,7 +45,7 @@
  |12. | [coming soon] | some wordy text 
 
 #  MACINTOSH
- Nos. | Clone Repo |  Description  | Demo/Docs | Screenshots/GIFs
+ Nos. |  Repo |  Description  | Demo/Docs | Screenshots/GIFs
  --- | :---- | :--------- | :----------| :----------------- 
  |01. | [macOS]( https://github.com/PuruVJ/macos-web ) | some wordy text    | [here]( https://macos.vercel.app )
  |02. | [macOS]( https://github.com/Renovamen/playground-macos ) | some wordy text    | [here]( https://portfolio.zxh.io )
@@ -54,7 +54,7 @@
  |05. | coming soon | some wordy text 
 
 # 🐧 LINUX 
- Nos. | Clone Repo | Description | Demo/Docs | Screenshots/GIFs
+ Nos. |  Repo | Description | Demo/Docs | Screenshots/GIFs
  --- | :---- | :--------- | :----------| :----------------- 
  |01. | [Ubuntu]( https://github.com/vivek9patel/vivek9patel.github.io ) | some wordy text    | [here]( https://vivek9patel.github.io )
  |02. | coming soon | some wordy text 
