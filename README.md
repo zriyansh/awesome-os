@@ -62,6 +62,9 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  |11. | [Windows/macOS]( https://github.com/gabrielbull/react-desktop ) | React UI Components for macOS High Sierra and Windows 10 <br> `React` `JS` ~ [@GabrielBull]( https://github.com/gabrielbull ) | [here]( http://reactdesktop.js.org )
  |12. | [Webamp]( https://github.com/captbaritone/webamp) | Winamp 2 reimplemented for the browser <br> `Objective-C` `Matlab` `TS` `HTML` `CSS` `JS` ~ [@captbaritone]( https://github.com/captbaritone ) | [here]( https://webamp.org ) 
  |13. | [Winampify]( https://github.com/remigallego/winampify) | ⚡ A Spotify web client with an OS-looking interface and a reimplementation of the classic audio player Winamp. <br> `React` `emotionjs` `TS` `HTML`  `Sass` `CSS` `JS` ~ [@remigallego](https://github.com/remigallego ) | [here]( https://winampify.io )
+ |14. | [webamp-desktop]( https://github.com/durasj/webamp-desktop) |Cross-platform (Windows, macOS and Linux) desktop version of Winamp 2.9 reimplementation. <br> `Electron`  `JS` ~ [@durasj](https://github.com/durasj ) | [here]( https://desktop.webamp.org )
+ 
+ 
  
   **[`^top^`](#)**
 
