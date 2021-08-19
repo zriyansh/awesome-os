@@ -19,13 +19,9 @@
 <p align="center">
   <a href="https://github.com/prik-k/awesome-OS-clones/stargazers"><img src="https://img.shields.io/github/stars/prik-k/awesome-os-clones.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/https://github.com/prik-k/awesome-OS-clones/issues"><img src="https://img.shields.io/github/issues/prik-k/awesome-os-clones.svg?style=popout-square" alt="GitHub issues"></a>
- <a href="https://github.com/https://github.com/prik-k/awesome-OS-clones/forks"><img src="https://img.shields.io/github/forks/prik-k/awesome-os-clones.svg?style=popout-square" alt="GitHub forks"></a>
-<a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
-  </a>
-  <a href="LICENSE.md">
-    <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
-  </a>
+  <a href="https://github.com/https://github.com/prik-k/awesome-OS-clones/forks"><img src="https://img.shields.io/github/forks/prik-k/awesome-os-clones.svg?style=popout-square" alt="GitHub forks"></a>
+  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License"></a>
 </p>
 
 
@@ -34,10 +30,12 @@
 <div align="center">
   <sub>Created by
   <a href="https://twitter.com/priyanskhodiyar">Priyansh</a> and
-  <a href="https://github.com/prik-k/awesome-OS-clones/graphs/contributors">contributors</a></sub>
+  <a href="https://github.com/prik-k/awesome-OS-clones/graphs/contributors">contributors</a>
+ </sub>
 </div>
- 
- Feel free to contribute and star ⭐️ if this was awesome! 🎓
+
+
+Feel free to contribute and star ⭐️ if this was awesome! 🎓
 
  
 
@@ -46,7 +44,7 @@
  
  Nos. |  Repo |  Description  | Demo/Docs 
  --- | :---- | :--------- | :----------
- |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) <br> | Want to experience Windows 11 now within your browser? <br> `HTML` `CSS` `JS` ~ [@Rajaniraiyn](https://github.com/Rajaniraiyn) | [here]( https://rajaniraiyn.github.io/windows11 ) |
+ |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) <br> | Want to experience Windows 11 now within your browser? <br> `HTML` `CSS` `JS` ~ [@Rajaniraiyn](https://github.com/Rajaniraiyn) | [here]( https://rajaniraiyn.github.io/windows11 ) 
  |02. | [Windows 11]( https://github.com/PiyushSuthar/Windows-11-Web ) | Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡ <br> `Preact` `ViteJS` `TS` `Vercel` `HTML` `CSS` `JS` ~ [@PiyushSuthar](https://github.com/PiyushSuthar)| [here]( https://win11.vercel.app )  
  |03. | [Windows 11]( https://github.com/blueedgetechno/windows11 ) | Windows 11 React <br> `React` `Redux` `Tailwind CSS` `Fontawesome` `SCSS` `JS` ~ [@blueedgetechno]( https://github.com/blueedgetechno ) | [here]( https://win11.blueedge.me )
  |04. | [Windows 10]( https://github.com/virtualvivek/react-windows-ui )  | Full featured Windows fluent UI apps using ReactJS. Provides a set of accessible, reusable, and composable React components that make it super easy to create websites and apps. <br> `TS` `SCSS` `HTML` `CSS` `JS`  ~ [@VirtualVivek](https://github.com/virtualvivek) | [here]( https://virtualvivek.github.io/react-windows-ui/ )
@@ -68,7 +66,7 @@
  
 #  MACINTOSH
  Nos. |  Repo |  Description  | Demo/Docs  
- --- | :---- | :--------- | :----------| 
+ --- | :---- | :--------- | :----------
  |01. | [macOS Monterey]( https://github.com/PuruVJ/macos-web ) | This open source project aims to replicate some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!  <br> `Svelte` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ]( https://github.com/PuruVJ )| [here]( https://macos.vercel.app )
  |02. | [macOS Monterey ]( https://github.com/puruvj/macos-preact) | [Legacy]This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like  <br> `Preact` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ]( https://github.com/PuruVJ )| [here](https://macos-preact.vercel.app)
  |03. | [macOS BigSur ]( https://github.com/Renovamen/playground-macos ) | Portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.  <br> ` React` `Redux` `Tailwind CSS`  `TS` `HTML` `JS` ~ [@Renovamen]( https://github.com/Renovamen ) | [here]( https://portfolio.zxh.io )
@@ -86,7 +84,7 @@
 # <img src="media/linux.png" alt="logo" width="36"/>  LINUX 
  
  Nos. |  Repo | Description | Demo/Docs 
- --- | :---- | :--------- | :----------| 
+ --- | :---- | :--------- | :----------
  |01. | [Ubuntu 20.04]( https://github.com/vivek9patel/vivek9patel.github.io ) | Personal portfolio website of theme Ubuntu 20.04, made using React.js & tailwind CSS  <br> `React` `Tailwind CSS` `JS` ~ [@Vivek9Patel]( https://github.com/vivek9patel)| [here]( https://vivek9patel.github.io )
  |02. | coming soon | some wordy text 
  
