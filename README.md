@@ -1,12 +1,20 @@
  # Awesome OS
 ## :octocat: An awesome list that curates the best of all big and small open sourced clones of 
 
+
+
 - 💻 [Windows](https://github.com/prik-k/awesome-OS#-windows)
 - &nbsp; &nbsp; [MacOS](https://github.com/prik-k/awesome-OS#-macintosh) 
 - 🐧&nbsp; [Linux](https://github.com/prik-k/awesome-OS#-linux)  
 
+
+
+
 ## operating systems, their softwares and more.🎉
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
+
 
 <p align="center">
   <a href="https://github.com/prik-k/awesome-OS-clones/stargazers"><img src="https://img.shields.io/github/stars/prik-k/awesome-os-clones.svg?style=popout-square" alt="GitHub stars"></a>
@@ -20,6 +28,9 @@
   </a>
 </p>
 
+
+
+
 <div align="center">
   <sub>Created by
   <a href="https://twitter.com/priyanskhodiyar">Priyansh</a> and
@@ -28,6 +39,10 @@
  
  Feel free to contribute and star ⭐️ if this was awesome! 🎓
 
+ 
+ 
+ 
+ 
 
 # 💻 WINDOWS
  Nos. |  Repo |  Description  | Demo/Docs 
@@ -48,6 +63,10 @@
   **[`^top^`](#)**
 
 
+ <hr>
+ 
+ 
+ 
 #  MACINTOSH
  Nos. |  Repo |  Description  | Demo/Docs  
  --- | :---- | :--------- | :----------| 
@@ -61,6 +80,10 @@
  **[`^top^`](#)**
 
  
+ <hr>
+ 
+ 
+ 
 # 🐧 LINUX 
  Nos. |  Repo | Description | Demo/Docs 
  --- | :---- | :--------- | :----------| 
@@ -70,18 +93,30 @@
   **[`^top^`](#)**
 
 
+ <hr>
+ 
+## :restroom: &nbsp;Tech Stack Used
 
 
+ 
+ 
 ## :restroom: &nbsp;For whom?
 
 For everyone, really. Here everyone can find their favourite taste of Operating System. Have fun exploring and if you find some cool projects like these which are missing here then do tell us!. 
 
+ 
+ 
+ 
+ 
 ## :information_source: &nbsp;Contributing
 
 If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
 
 Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. You should also remember about this:
 
+ 
+ 
+ 
 ```diff
 + This repository is not meant to contain everything but only good quality stuff.
 ```
@@ -89,11 +124,15 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 All **suggestions/PR** are welcome!
 
 
+ 
+ 
 ## To Do
  - [ ] Add Microsoft Windows logo emoji
- - [ ] Add mentions to the original repository admins 
+ - [x] Add mentions to the original repository admins 
  - [ ] Add new stuff
 
+ 
+ 
 :shipit:
 :trollface:
 🇮🇳 
