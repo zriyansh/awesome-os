@@ -32,7 +32,7 @@
 # 💻 WINDOWS
  Nos. |  Repo |  Description  | Demo/Docs 
  --- | :---- | :--------- | :----------
- |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) <br>@rajaniraiyn | Want to experience Windows 11 now within your browser? <br> `HTML` `CSS` `JS`| [here]( https://rajaniraiyn.github.io/windows11 ) |
+ |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) <br> | Want to experience Windows 11 now within your browser? <br> `HTML` `CSS` `JS` ~ [@rajaniraiyn](https://github.com/Rajaniraiyn) | [here]( https://rajaniraiyn.github.io/windows11 ) |
  |02. | [Windows 11]( https://github.com/PiyushSuthar/Windows-11-Web ) | Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡ <br> `Preact` `ViteJS` `TS` `HTML` `CSS` `JS `| [here]( https://win11.vercel.app )  
  |03. | [Windows 11]( https://github.com/blueedgetechno/windows11 ) | Windows 11 React <br> `React` `Redux` `Tailwind CSS` `Fontawesome` `SCSS` `JS` | [here]( https://win11.blueedge.me )
  |04. | [Windows 10]( https://github.com/virtualvivek/react-windows-ui )  | Full featured Windows fluent UI apps using ReactJS. Provides a set of accessible, reusable, and composable React components that make it super easy to create websites and apps. <br> `TS` `SCSS` `HTML` `CSS` `JS`   | [here]( https://virtualvivek.github.io/react-windows-ui/ )
