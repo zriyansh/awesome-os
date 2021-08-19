@@ -44,7 +44,7 @@
  
  
 
-# 💻 WINDOWS
+# 💻 WINDOWS <img src="./.github/images/windows.png" width="14"><br />
  Nos. |  Repo |  Description  | Demo/Docs 
  --- | :---- | :--------- | :----------
  |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) <br> | Want to experience Windows 11 now within your browser? <br> `HTML` `CSS` `JS` ~ [@Rajaniraiyn](https://github.com/Rajaniraiyn) | [here]( https://rajaniraiyn.github.io/windows11 ) |
@@ -95,7 +95,7 @@
 
  <hr>
  
-## ✨ &nbsp;Tech Stack Used
+## ✨ &nbsp;Built With:
  - [React](https://reactjs.org)
  - [Preact](https://preactjs.com)
  - [ViteJs](https://vitejs.dev)
