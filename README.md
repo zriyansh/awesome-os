@@ -57,6 +57,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  |11. | [Windows/macOS]( https://github.com/gabrielbull/react-desktop ) | React UI Components for macOS High Sierra and Windows 10 <br> `React` `JS` ~ [@GabrielBull]( https://github.com/gabrielbull ) | [here]( http://reactdesktop.js.org ) 
  |12. | [coming soon] | some wordy text 
  
+ 
   **[`^top^`](#)**
 
 
@@ -65,6 +66,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  
  
 #  MACINTOSH
+
  Nos. |  Repo |  Description  | Demo/Docs  
  --- | :---- | :--------- | :----------
  |01. | [macOS Monterey]( https://github.com/PuruVJ/macos-web ) | This open source project aims to replicate some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!  <br> `Svelte` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ]( https://github.com/PuruVJ )| [here]( https://macos.vercel.app )
@@ -73,6 +75,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  |04. | [macOS Catalina Finder]( https://github.com/guyariely/finder-clone )  | A (bare bone!) clone of the macOS "Finder" app 🖱 🖥 (the macOS equivalent of Windows "File Explorer"). Built with React and Sass ⚛️ 👓  <br> `React` `SCSS` `Netlify` `HTML` `CSS` `JS` ~ [@guyariely]( https://github.com/guyariely ) | [here]( https://finder-clone.netlify.app )
  |05. | [macOS/Windows]( https://github.com/gabrielbull/react-desktop ) | React UI Components for macOS High Sierra and Windows 10 <br> `React` `JS` ~ [@gabrielbull]( https://github.com/GabrielBull ) | [here]( http://reactdesktop.js.org ) 
  |06. | coming soon | some wordy text 
+
 
  **[`^top^`](#)**
 
