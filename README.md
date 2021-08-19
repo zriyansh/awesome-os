@@ -54,7 +54,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  |08. | [Windows 95]( https://github.com/felixrieseberg/windows95 )  | 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows. <br> `Electron` `TS` `Docker` `JS` ~ [@Felixrieseberg]( https://github.com/felixrieseberg ) | [here]( https://github.com/felixrieseberg/windows95/releases/tag/v2.3.0 )
  |09. | [Pokédex]( https://github.com/wobsoriano/poke95 )  | 🚀 A Windows 95 style Pokédex built with React.  <br> `React` `React95` `PokeAPI` `Vercel` `HTML` `CSS` `JS` ~ [@Wobsoriano](  https://github.com/wobsoriano) | [here]( https://poke95.vercel.app )
  |10. | [Windows 95 React]( https://github.com/arturbien/React95 ) | 🌈🕹 Refreshed Windows 95 style UI components for your React app  <br> `React` `JS` ~ [@Arturbien]( https://github.com/arturbien ) | [here]( https://react95.io/# )
- |11. | [Windows/macOS]( https://github.com/gabrielbull/react-desktop ) | React UI Components for macOS High Sierra and Windows 10 <br> `React` `JS` ~ [@GabrielBull]( https://github.com/gabrielbull ) | [here]( http://reactdesktop.js.org ) 
+ |11. | [Windows/macOS]( https://github.com/gabrielbull/react-desktop ) | React UI Components for macOS High Sierra and Windows 10 <br> `React` `JS` ~ [@GabrielBull]( https://github.com/gabrielbull ) | [here]( http://reactdesktop.js.org ) |
 
  
  
@@ -67,8 +67,9 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  
 #  MACINTOSH
 
+
  Nos. |  Repo |  Description  | Demo/Docs  
- --- | :---- | :--------- | :----------
+ --- |:---- |:--------- |:----------
  |01. | [macOS Monterey]( https://github.com/PuruVJ/macos-web ) | This open source project aims to replicate some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!  <br> `Svelte` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ]( https://github.com/PuruVJ )| [here]( https://macos.vercel.app )
  |02. | [macOS Monterey ]( https://github.com/puruvj/macos-preact) | [Legacy]This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like  <br> `Preact` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ]( https://github.com/PuruVJ )| [here](https://macos-preact.vercel.app)
  |03. | [macOS BigSur ]( https://github.com/Renovamen/playground-macos ) | Portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.  <br> ` React` `Redux` `Tailwind CSS`  `TS` `HTML` `JS` ~ [@Renovamen]( https://github.com/Renovamen ) | [here]( https://portfolio.zxh.io )
