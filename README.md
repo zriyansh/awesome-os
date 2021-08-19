@@ -70,13 +70,11 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  |19. | [Solitaire](https://github.com/rjanjic/js-solitaire) |Clone of Microsoft's Solitaire Game <br> `CSS` `JS` ~ [@rjanjic](https://github.com/rjanjic ) | [here]( http://radovanjanjic.com/js-solitaire/ )
  |20. | [winclassic](https://github.com/tpenguinltg/winclassic) |Windows Classic theme designer: a utility to help ease the development of Windows Classic themes <br> `sed` `SCSS` `HTML` `CSS` `JS` ~ [@tpenguinltg](https://github.com/tpenguinltg ) | [here]( https://tpenguinltg.github.io/winclassic/ )
  |21. | [win95-media-player](https://github.com/benwiley4000/win95-media-player) |💿 Back from 1995, and running on your website <br> `React` `JS` ~ [@benwiley4000](https://github.com/benwiley4000 ) | [here]( https://benwiley4000.github.io/win95-media-player/ )
-
-
-
+|22. | [win98](https://github.com/lolstring/window98-html-css-js) |Windows 98 on the Web using HTML5, CSS3 and JS <br> `HTML` `CSS` `JS` ~ [@lolstring](https://github.com/lolstring ) | [here]( https://rahul.io/ )
 
 
  
-|22. | [winclassic](https://github.com/tpenguinltg/winclassic) |Windows Classic theme designer: a utility to help ease the development of Windows Classic themes <br> `sed` `SCSS` `HTML` `CSS` `JS` ~ [@tpenguinltg](https://github.com/tpenguinltg ) | [here]( https://tpenguinltg.github.io/winclassic/ )
+|22. | [win98](https://github.com/lolstring/window98-html-css-js) |Windows 98 on the Web using HTML5, CSS3 and JS <br> `HTML` `CSS` `JS` ~ [@lolstring](https://github.com/lolstring ) | [here]( https://rahul.io/ )
 
 
 
