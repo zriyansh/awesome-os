@@ -29,9 +29,9 @@
 
 
 # 💻 WINDOWS
- Nos. |  Repo |  Description  | Demo/Docs | Screenshots/GIFs
- --- | :---- | :--------- | :----------| :----------------- 
- |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) | some wordy text | [here]( https://rajaniraiyn.github.io/windows11 )
+ Nos. |  Repo |  Description  | Demo/Docs | Screenshots/GIFs | Shout-out
+ --- | :---- | :--------- | :----------| :----------------- | :--- 
+ |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) | some wordy text | [here]( https://rajaniraiyn.github.io/windows11 ) || @Rajaniraiyn
  |02. | [Windows 11]( https://github.com/PiyushSuthar/Windows-11-Web ) | some wordy text  | [here]( https://win11.vercel.app )  
  |03. | [Windows 11]( https://github.com/blueedgetechno/windows11 ) | some wordy text  | [here]( https://win11.blueedge.me )
  |04. | [Windows 10]( https://github.com/virtualvivek/react-windows-ui )  |Components    | [here]( https://virtualvivek.github.io/react-windows-ui/ )
@@ -45,8 +45,8 @@
  |12. | [coming soon] | some wordy text 
 
 #  MACINTOSH
- Nos. |  Repo |  Description  | Demo/Docs | Screenshots/GIFs
- --- | :---- | :--------- | :----------| :----------------- 
+ Nos. |  Repo |  Description  | Demo/Docs | Screenshots/GIFs | Shout-out
+ --- | :---- | :--------- | :----------| :----------------- | :--- 
  |01. | [macOS]( https://github.com/PuruVJ/macos-web ) | some wordy text    | [here]( https://macos.vercel.app )
  |02. | [macOS]( https://github.com/Renovamen/playground-macos ) | some wordy text    | [here]( https://portfolio.zxh.io )
  |03. | [macOS Finder]( https://github.com/guyariely/finder-clone )  | some wordy text   | [here]( https://finder-clone.netlify.app )
@@ -54,8 +54,8 @@
  |05. | coming soon | some wordy text 
 
 # 🐧 LINUX 
- Nos. |  Repo | Description | Demo/Docs | Screenshots/GIFs
- --- | :---- | :--------- | :----------| :----------------- 
+ Nos. |  Repo | Description | Demo/Docs | Screenshots/GIFs | Shout-out
+ --- | :---- | :--------- | :----------| :----------------- | :--- 
  |01. | [Ubuntu]( https://github.com/vivek9patel/vivek9patel.github.io ) | some wordy text    | [here]( https://vivek9patel.github.io )
  |02. | coming soon | some wordy text 
 
@@ -85,4 +85,6 @@ All **suggestions/PR** are welcome!
 :shipit:
 :trollface:
 🇮🇳 
-
+ 
+ 
+**[`^        back to top        ^`](#)**
