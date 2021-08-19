@@ -64,10 +64,26 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  |13. | [Webamp]( https://github.com/captbaritone/webamp) | Winamp 2 reimplemented for the browser <br> `Objective-C` `Matlab` `TS` `HTML` `CSS` `JS` ~ [@captbaritone]( https://github.com/captbaritone ) | [here]( https://webamp.org ) 
  |14. | [Winampify]( https://github.com/remigallego/winampify) | ⚡ A Spotify web client with an OS-looking interface and a reimplementation of the classic audio player Winamp. <br> `React` `emotionjs` `TS` `HTML`  `Sass` `CSS` `JS` ~ [@remigallego](https://github.com/remigallego ) | [here]( https://winampify.io )
  |15. | [webamp-desktop]( https://github.com/durasj/webamp-desktop) |Cross-platform (Windows, macOS and Linux) desktop version of Winamp 2.9 reimplementation. <br> `Electron`  `JS` ~ [@durasj](https://github.com/durasj ) | [here]( https://desktop.webamp.org )
- |16. | [Window Screensaver Pipes]( https://github.com/1j01/pipes) | 💿 Web based Classic Windows 3D Pipes screensaver remake (web-based) <br> `ThreeJs`  `JS` ~ [@1j01](https://github.com/1j01 ) | [here]( https://1j01.github.io/pipes/ )
- 
+ |16. | [Window Screensaver Pipes]( https://github.com/1j01/pipes) | 💿 Web based Classic Windows 3D Pipes screensaver remake. <br> `ThreeJs`  `JS` ~ [@1j01](https://github.com/1j01 ) | [here]( https://1j01.github.io/pipes/ )
+ |17. | [Window 3D FlowerBox](https://github.com/kevin-shannon/3D-FlowerBox) |💿 Web based Faithful WebGL remake of the Classic Windows 95 Screensaver <br> `HTML` `JS` ~ [@kevin-shannon](https://github.com/kevin-shannon ) | [here]( https://kevinshannon.dev/3D-FlowerBox/ )
+ |18. | [minesweeper](https://github.com/ziebelje/minesweeper) |Clone of Microsoft's Minesweeper <br> `CSS` `JS` ~ [@ziebelje](https://github.com/ziebelje ) | [here]( http://jonziebell.com/minesweeper )
+ |19. | [Solitaire](https://github.com/rjanjic/js-solitaire) |Clone of Microsoft's Solitaire Game <br> `CSS` `JS` ~ [@rjanjic](https://github.com/rjanjic ) | [here]( http://radovanjanjic.com/js-solitaire/ )
+ |20. | [winclassic](https://github.com/tpenguinltg/winclassic) |Windows Classic theme designer: a utility to help ease the development of Windows Classic themes <br> `sed` `SCSS` `HTML` `CSS` `JS` ~ [@tpenguinltg](https://github.com/tpenguinltg ) | [here]( https://tpenguinltg.github.io/winclassic/ )
+ |21. | [win95-media-player](https://github.com/benwiley4000/win95-media-player) |💿 Back from 1995, and running on your website <br> `React` `JS` ~ [@benwiley4000](https://github.com/benwiley4000 ) | [here]( https://benwiley4000.github.io/win95-media-player/ )
+
+
+
+
 
  
+|22. | [winclassic](https://github.com/tpenguinltg/winclassic) |Windows Classic theme designer: a utility to help ease the development of Windows Classic themes <br> `sed` `SCSS` `HTML` `CSS` `JS` ~ [@tpenguinltg](https://github.com/tpenguinltg ) | [here]( https://tpenguinltg.github.io/winclassic/ )
+
+
+
+
+
+
+
  
   **[`^top^`](#)**
 
@@ -86,6 +102,9 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  |03. | [macOS BigSur ]( https://github.com/Renovamen/playground-macos ) | Portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.  <br> ` React` `Redux` `Tailwind CSS`  `TS` `HTML` `JS` ~ [@Renovamen]( https://github.com/Renovamen ) | [here]( https://portfolio.zxh.io )
  |04. | [macOS Catalina Finder]( https://github.com/guyariely/finder-clone )  | A (bare bone!) clone of the macOS "Finder" app 🖱 🖥 (the macOS equivalent of Windows "File Explorer"). Built with React and Sass ⚛️ 👓  <br> `React` `SCSS` `Netlify` `HTML` `CSS` `JS` ~ [@guyariely]( https://github.com/guyariely ) | [here]( https://finder-clone.netlify.app )
  |05. | [macOS/Windows]( https://github.com/gabrielbull/react-desktop ) | React UI Components for macOS High Sierra and Windows 10 <br> `React` `JS` ~ [@gabrielbull]( https://github.com/GabrielBull ) | [here]( http://reactdesktop.js.org ) 
+ |06. | [Macintosh Plus]( https://github.com/jsdf/pce ) | Emulates Mac Plus, IBM PC, & Atari ST in the browser using WebAssembly <br> `C` `Makefile` `Assembly` `JS` ~ [@jsdf]( https://github.com/jsdf ) | [here]( http://jamesfriend.com.au/pce-js/pce-js-apps/) 
+
+
 
 
  **[`^top^`](#)**
