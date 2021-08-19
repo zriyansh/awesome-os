@@ -40,11 +40,10 @@
  Feel free to contribute and star ⭐️ if this was awesome! 🎓
 
  
- 
- 
- 
 
-# 💻 WINDOWS <img src="./.github/images/windows.png" width="14"><br />
+# <img src="media/icons8-windows-11-48.png" alt="logo" width="36"/>  WINDOWS
+ 
+ 
  Nos. |  Repo |  Description  | Demo/Docs 
  --- | :---- | :--------- | :----------
  |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) <br> | Want to experience Windows 11 now within your browser? <br> `HTML` `CSS` `JS` ~ [@Rajaniraiyn](https://github.com/Rajaniraiyn) | [here]( https://rajaniraiyn.github.io/windows11 ) |
@@ -84,7 +83,8 @@
  
  
  
-# 🐧 LINUX 
+# <img src="media/linux.png" alt="logo" width="36"/>  LINUX 
+ 
  Nos. |  Repo | Description | Demo/Docs 
  --- | :---- | :--------- | :----------| 
  |01. | [Ubuntu 20.04]( https://github.com/vivek9patel/vivek9patel.github.io ) | Personal portfolio website of theme Ubuntu 20.04, made using React.js & tailwind CSS  <br> `React` `Tailwind CSS` `JS` ~ [@Vivek9Patel]( https://github.com/vivek9patel)| [here]( https://vivek9patel.github.io )
