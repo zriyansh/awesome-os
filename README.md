@@ -30,8 +30,8 @@
 
 
 # 💻 WINDOWS
- Nos. |  Repo |  Description  | Demo/Docs | Screenshots/GIFs | Shout-out
- --- | :---- | :--------- | :----------| :----------------- | :--- 
+ Nos. |  Repo |  Description  | Demo/Docs | Shout-out
+ --- | :---- | :--------- | :----------| :----------------- 
  |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) | Want to experience Windows 11 now within your browser? | [here]( https://rajaniraiyn.github.io/windows11 ) || @Rajaniraiyn
  |02. | [Windows 11]( https://github.com/PiyushSuthar/Windows-11-Web ) | Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡  | [here]( https://win11.vercel.app )  
  |03. | [Windows 11]( https://github.com/blueedgetechno/windows11 ) | Windows 11 React  | [here]( https://win11.blueedge.me )
@@ -49,8 +49,8 @@
 
 
 #  MACINTOSH
- Nos. |  Repo |  Description  | Demo/Docs | Screenshots/GIFs | Shout-out
- --- | :---- | :--------- | :----------| :----------------- | :--- 
+ Nos. |  Repo |  Description  | Demo/Docs  | Shout-out
+ --- | :---- | :--------- | :----------| :----------------- 
  |01. | [macOS]( https://github.com/PuruVJ/macos-web ) | some wordy text    | [here]( https://macos.vercel.app )
  |02. | [macOS]( https://github.com/Renovamen/playground-macos ) | some wordy text    | [here]( https://portfolio.zxh.io )
  |03. | [macOS Finder]( https://github.com/guyariely/finder-clone )  | some wordy text   | [here]( https://finder-clone.netlify.app )
@@ -61,8 +61,8 @@
 
  
 # 🐧 LINUX 
- Nos. |  Repo | Description | Demo/Docs | Screenshots/GIFs | Shout-out
- --- | :---- | :--------- | :----------| :----------------- | :--- 
+ Nos. |  Repo | Description | Demo/Docs | Shout-out
+ --- | :---- | :--------- | :----------| :----------------- 
  |01. | [Ubuntu]( https://github.com/vivek9patel/vivek9patel.github.io ) | some wordy text    | [here]( https://vivek9patel.github.io )
  |02. | coming soon | some wordy text 
  
