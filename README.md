@@ -3,7 +3,7 @@
 
 - 💻 [Windows](https://github.com/prik-k/awesome-OS#-windows)
 - &nbsp; &nbsp; [MacOS](https://github.com/prik-k/awesome-OS#-macintosh) 
-- 🐧[Linux](https://github.com/prik-k/awesome-OS#-linux)  
+- 🐧&nbsp; [Linux](https://github.com/prik-k/awesome-OS#-linux)  
 
 ## operating systems, their softwares and more.🎉
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -30,9 +30,9 @@
 
 
 # 💻 WINDOWS
- Nos. |  Repo |  Description  | Demo/Docs | Shout-out
- --- | :---- | :--------- | :----------| :----------------- 
- |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) | Want to experience Windows 11 now within your browser? <br> ``HTML CSS JS``| [here]( https://rajaniraiyn.github.io/windows11 ) || @Rajaniraiyn
+ Nos. |  Repo |  Description  | Demo/Docs 
+ --- | :---- | :--------- | :----------
+ |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) | Want to experience Windows 11 now within your browser? <br> ``HTML CSS JS``| [here]( https://rajaniraiyn.github.io/windows11 ) |
  |02. | [Windows 11]( https://github.com/PiyushSuthar/Windows-11-Web ) | Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡ <br> ``Preact ViteJS TS HTML CSS JS ``| [here]( https://win11.vercel.app )  
  |03. | [Windows 11]( https://github.com/blueedgetechno/windows11 ) | Windows 11 React <br> `` React Redux Tailwind fontawesome SCSS JS `` | [here]( https://win11.blueedge.me )
  |04. | [Windows 10]( https://github.com/virtualvivek/react-windows-ui )  | Full featured Windows fluent UI apps using ReactJS. Provides a set of accessible, reusable, and composable React components that make it super easy to create websites and apps. <br> `` TS SCSS HTML CSS JS ``   | [here]( https://virtualvivek.github.io/react-windows-ui/ )
@@ -49,12 +49,12 @@
 
 
 #  MACINTOSH
- Nos. |  Repo |  Description  | Demo/Docs  | Shout-out
- --- | :---- | :--------- | :----------| :----------------- 
- |01. | [macOS]( https://github.com/PuruVJ/macos-web ) | This open source project aims to replicate some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!  <br> ``Svelte Vite TS SCSS HTML CSS JS``  | [here]( https://macos.vercel.app )
- |02. | [macOS]( https://github.com/puruvj/macos-preact) | [Legacy]This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like ``Preact Vite TS SCSS HTML CSS JS`` | [here](https://macos-preact.vercel.app)
- |03. | [macOS]( https://github.com/Renovamen/playground-macos ) | Portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.  <br> `` React Redux Tailwind CSS  TS HTML JS``  | [here]( https://portfolio.zxh.io )
- |04. | [macOS Finder]( https://github.com/guyariely/finder-clone )  | A (bare bone!) clone of the macOS "Finder" app 🖱 🖥 (the macOS equivalent of Windows "File Explorer"). Built with React and Sass ⚛️ 👓  <br> `` React SCSS HTML CSS JS `` | [here]( https://finder-clone.netlify.app )
+ Nos. |  Repo |  Description  | Demo/Docs  
+ --- | :---- | :--------- | :----------| 
+ |01. | [macOS Monterey]( https://github.com/PuruVJ/macos-web ) | This open source project aims to replicate some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!  <br> ``Svelte Vite TS SCSS HTML CSS JS``  | [here]( https://macos.vercel.app )
+ |02. | [macOS Monterey ]( https://github.com/puruvj/macos-preact) | [Legacy]This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like ``Preact Vite TS SCSS HTML CSS JS`` | [here](https://macos-preact.vercel.app)
+ |03. | [macOS BigSur ]( https://github.com/Renovamen/playground-macos ) | Portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.  <br> `` React Redux Tailwind CSS  TS HTML JS``  | [here]( https://portfolio.zxh.io )
+ |04. | [macOS Catalina Finder]( https://github.com/guyariely/finder-clone )  | A (bare bone!) clone of the macOS "Finder" app 🖱 🖥 (the macOS equivalent of Windows "File Explorer"). Built with React and Sass ⚛️ 👓  <br> `` React SCSS HTML CSS JS `` | [here]( https://finder-clone.netlify.app )
  |05. | [macOS/Windows]( https://github.com/gabrielbull/react-desktop ) | React UI Components for macOS High Sierra and Windows 10 <br> `` React JS ``  | [here]( http://reactdesktop.js.org ) 
  |06. | coming soon | some wordy text 
 
@@ -62,9 +62,9 @@
 
  
 # 🐧 LINUX 
- Nos. |  Repo | Description | Demo/Docs | Shout-out
- --- | :---- | :--------- | :----------| :----------------- 
- |01. | [Ubuntu]( https://github.com/vivek9patel/vivek9patel.github.io ) | Personal portfolio website of theme Ubuntu 20.04, made using React.js & tailwind CSS  <br> `` React & Tailwind CSS JS``  | [here]( https://vivek9patel.github.io )
+ Nos. |  Repo | Description | Demo/Docs 
+ --- | :---- | :--------- | :----------| 
+ |01. | [Ubuntu 20.04]( https://github.com/vivek9patel/vivek9patel.github.io ) | Personal portfolio website of theme Ubuntu 20.04, made using React.js & tailwind CSS  <br> `` React & Tailwind CSS JS``  | [here]( https://vivek9patel.github.io )
  |02. | coming soon | some wordy text 
  
   **[`^top^`](#)**
