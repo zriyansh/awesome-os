@@ -5,7 +5,7 @@
 -  [MacOS](https://github.com/prik-k/awesome-OS#-macintosh) 
 - 🐧[Linux](https://github.com/prik-k/awesome-OS#-linux)  
 
-## operating system, their softwares and more.🎉
+## operating systems, their softwares and more.🎉
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
@@ -32,17 +32,17 @@
 # 💻 WINDOWS
  Nos. |  Repo |  Description  | Demo/Docs | Screenshots/GIFs | Shout-out
  --- | :---- | :--------- | :----------| :----------------- | :--- 
- |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) | some wordy text | [here]( https://rajaniraiyn.github.io/windows11 ) || @Rajaniraiyn
- |02. | [Windows 11]( https://github.com/PiyushSuthar/Windows-11-Web ) | some wordy text  | [here]( https://win11.vercel.app )  
- |03. | [Windows 11]( https://github.com/blueedgetechno/windows11 ) | some wordy text  | [here]( https://win11.blueedge.me )
- |04. | [Windows 10]( https://github.com/virtualvivek/react-windows-ui )  |Components    | [here]( https://virtualvivek.github.io/react-windows-ui/ )
- |05. | [Windows 10]( https://github.com/virtualvivek/Windows10-framework/ ) | some wordy text    | [here]( https://windows10framework.github.io )
- |06. | [Windows XP]( https://github.com/ShizukuIchi/winXP ) | some wordy text    | [here]( https://winxp.vercel.app )
- |07. | [Windows XP MS Paint]( https://github.com/1j01/jspaint ) | some wordy text    | [here]( https://jspaint.app/#local:9fdbb2f31c0bb8 )
- |08. | [Windows 95]( https://github.com/felixrieseberg/windows95 )  | some wordy text   | [here]( https://github.com/felixrieseberg/windows95/releases/tag/v2.3.0 )
- |09. | [Pokédex]( https://github.com/wobsoriano/poke95 )  | some wordy text    | [here]( https://poke95.vercel.app )
- |10. | [Windows 95 React]( https://github.com/arturbien/React95 ) | some wordy text    | [here]( https://react95.io/# )
- |11. | [Windows/macOS]( https://github.com/gabrielbull/react-desktop ) | Windows and macOS Components   | [here]( http://reactdesktop.js.org ) 
+ |01. | [Windows 11]( https://github.com/Rajaniraiyn/windows11 ) | Want to experience Windows 11 now within your browser? | [here]( https://rajaniraiyn.github.io/windows11 ) || @Rajaniraiyn
+ |02. | [Windows 11]( https://github.com/PiyushSuthar/Windows-11-Web ) | Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡  | [here]( https://win11.vercel.app )  
+ |03. | [Windows 11]( https://github.com/blueedgetechno/windows11 ) | Windows 11 React  | [here]( https://win11.blueedge.me )
+ |04. | [Windows 10]( https://github.com/virtualvivek/react-windows-ui )  | Full featured Windows fluent UI apps using ReactJS. Provides a set of accessible, reusable, and composable React components that make it super easy to create websites and apps.    | [here]( https://virtualvivek.github.io/react-windows-ui/ )
+ |05. | [Windows 10]( https://github.com/virtualvivek/Windows10-framework/ ) | Build full featured Windows 10 Native apps or Web apps using Html, CSS & JavaScript. Comes with rich native like components, icon sets. Used as fast prototyping tool for Windows environment platforms.    | [here]( https://windows10framework.github.io )
+ |06. | [Windows XP]( https://github.com/ShizukuIchi/winXP ) | 🏁 Web based Windows XP desktop recreation.    | [here]( https://winxp.vercel.app )
+ |07. | [Windows XP MS Paint]( https://github.com/1j01/jspaint ) | 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras    | [here]( https://jspaint.app/#local:9fdbb2f31c0bb8 )
+ |08. | [Windows 95]( https://github.com/felixrieseberg/windows95 )  | 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.   | [here]( https://github.com/felixrieseberg/windows95/releases/tag/v2.3.0 )
+ |09. | [Pokédex]( https://github.com/wobsoriano/poke95 )  | 🚀 A Windows 95 style Pokédex built with React.    | [here]( https://poke95.vercel.app )
+ |10. | [Windows 95 React]( https://github.com/arturbien/React95 ) | 🌈🕹 Refreshed Windows 95 style UI components for your React app    | [here]( https://react95.io/# )
+ |11. | [Windows/macOS]( https://github.com/gabrielbull/react-desktop ) | React UI Components for macOS High Sierra and Windows 10   | [here]( http://reactdesktop.js.org ) 
  |12. | [coming soon] | some wordy text 
  
   **[`^top^`](#)**
