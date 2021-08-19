@@ -42,7 +42,7 @@
  |08. | [Windows 95]( https://github.com/felixrieseberg/windows95 )  | 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows. <br> `Electron` `TS` `Docker` `JS` ~ [@felixrieseberg]( https://github.com/felixrieseberg ) | [here]( https://github.com/felixrieseberg/windows95/releases/tag/v2.3.0 )
  |09. | [Pokédex]( https://github.com/wobsoriano/poke95 )  | 🚀 A Windows 95 style Pokédex built with React.  <br> `React` `React95` `PokeAPI` `Vercel` `HTML` `CSS` `JS` ~ [@wobsoriano](  https://github.com/wobsoriano) | [here]( https://poke95.vercel.app )
  |10. | [Windows 95 React]( https://github.com/arturbien/React95 ) | 🌈🕹 Refreshed Windows 95 style UI components for your React app  <br> `React95` `JS` ~ [@arturbien]( https://github.com/arturbien ) | [here]( https://react95.io/# )
- |11. | [Windows/macOS]( https://github.com/gabrielbull/react-desktop ) | React UI Components for macOS High Sierra and Windows 10 <br> `React JS` ~ [@gabrielbull]( https://github.com/gabrielbull ) | [here]( http://reactdesktop.js.org ) 
+ |11. | [Windows/macOS]( https://github.com/gabrielbull/react-desktop ) | React UI Components for macOS High Sierra and Windows 10 <br> `React` `JS` ~ [@gabrielbull]( https://github.com/gabrielbull ) | [here]( http://reactdesktop.js.org ) 
  |12. | [coming soon] | some wordy text 
  
   **[`^top^`](#)**
