@@ -1,2 +1,3 @@
-markdown: Redcarpet
-input: GFM
+markdown: kramdown
+kramdown:
+  input: Kramdown
