@@ -26,14 +26,14 @@
   <a href="https://twitter.com/priyanskhodiyar">Priyansh</a> and
   <a href="https://github.com/prik-k/awesome-OS-clones/graphs/contributors">contributors</a>
  </sub>
+  <p>Feel free to contribute and star ⭐️ if this was awesome!</p>
 </div>
 
 
-Feel free to contribute and star ⭐️ if this was awesome! 🎓
 
  
 
-# CONTENTS
+## INDEX
  - [WINDOWS](#--windows)
  - [MACINTOSH](#-macintosh)
  - [LINUX](#--linux)
