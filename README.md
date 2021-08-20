@@ -163,6 +163,29 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  
  
  
+# 🌍 BROWSERs
+| Logo                                                                                                                                                                                    | Company               | Name              | Rendering Engine | Version         |
+| :---:                                                                                                                                                                                   | :---                  | :---              | :---             | :---:           |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11.svg" alt="Internet Explorer" /> | Microsoft             | Internet Explorer | Trident          | <sup>*</sup>11+ |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/edge_12-18/edge_12-18.svg" alt="Edge" />                                      | Microsoft             | Edge              | EdgeHTML         | <sup>*</sup>12+ |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge.svg" alt="Edge" />                                                          | Microsoft             | Edge              | Blink            | 79+             |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/archive/firefox_3.5-22/firefox_3.5-22.png" alt="Firefox" />                           | Mozilla               | Firefox           | Gecko            | <sup>*</sup>4+  |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox.svg" alt="Firefox" />                                                 | Mozilla               | Firefox           | Quantum Gecko    | 57+             |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/pale-moon/pale-moon.png" alt="Pale Moon" />                                           | Moonchild Productions | Pale Moon         | Goanna           | <sup>*</sup>4+  |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/basilisk/basilisk.svg" alt="Basilisk" />                                              | Moonchild Productions | Basilisk          | Goanna           | <sup>*</sup>1+  |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/chrome_1-11/chrome_1-11.svg" alt="Chrome" />                                  | Google                | Chrome            | WebKit           | <sup>*</sup>3+  |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome.svg" alt="Chrome" />                                                    | Google                | Chrome            | Blink            | 28+             |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/opera_15-32/opera_15-32.png" alt="Opera" />                                   | Opera Software        | Opera             | Presto           | <sup>*</sup>12+ |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera.svg" alt="Opera" />                                                       | Opera Software        | Opera             | Blink            | 15+             |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari.png" alt="Safari" />                                                    | Apple                 | Safari            | WebKit           | 8+              |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/brave/brave.svg" alt="Brave" />                                                       | Brave Software        | Brave             | Blink            | 1+              |
+| <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/vivaldi/vivaldi.svg" alt="Vivaldi" />                                                 | Vivaldi Technologies  | Vivaldi           | Blink            | 1+              |
+ 
+  
+  
+  <hr>
+  
+ 
 ## ✨ &nbsp;Built With:
  - [React](https://reactjs.org)
  - [Preact](https://preactjs.com)
@@ -188,7 +211,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
 
 For everyone, really. Here everyone can find their favourite taste of Operating System. Have fun exploring and if you find some cool projects like these which are missing here then do tell us!. 
 
-
+<hr>
  
 ## Contributing
 
@@ -196,7 +219,7 @@ If you find something which doesn't make sense, or something doesn't seem right,
 
 Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. You should also remember about this:
 
- 
+ <hr>
  
 ## What is the answer of Life, the Universe, and Everything?
   - it's 42
@@ -205,6 +228,12 @@ Before adding a pull request, please see the **[contributing guidelines](.github
  
  Thanks [@blueedgetechno]( https://github.com/blueedgetechno ) for this!
 
+<hr>
+ 
+## [Atwood's Law](https://www.reddit.com/r/atwoodslaw/)
+  - Any application that can be written in JavaScript, will eventually be written in JavaScript. - Jeff Atwood (2007) 
+ 
+ <hr>
  
 ```diff
 + This repository is not meant to contain everything but only good quality stuff.
