@@ -99,20 +99,6 @@
  <hr>
  
  
- 
-##  MACINTOSH
-
-
-| Nos. | Repo    | Description            | Demo/Docs          |
-| ---- | :------------------ | :------------------ | :-------- |
-| 01.  | [macOS Monterey](https://github.com/PuruVJ/macos-web)              | This open source project aims to replicate some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte. <br> `Svelte` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ](https://github.com/PuruVJ)                      | [here](https://macos.vercel.app)                      |
-| 02.  | [macOS Monterey](https://github.com/puruvj/macos-preact)          | (Legacy)This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like <br> `Preact` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ](https://github.com/PuruVJ) | [here](https://macos-preact.vercel.app)               |
-| 03.  | [macOS BigSur](https://github.com/Renovamen/playground-macos)     | Portfolio website simulating macOS's GUI, developed with React and Tailwind CSS. <br> ` React` `Redux` `Tailwind CSS` `TS` `HTML` `JS` ~ [@Renovamen](https://github.com/Renovamen)                                                                                | [here](https://portfolio.zxh.io)                      |
-| 04.  | [macOS Catalina Finder](https://github.com/guyariely/finder-clone) | A (bare bone!) clone of the macOS "Finder" app (the macOS equivalent of Windows "File Explorer"). Built with React and Sass <br> `React` `SCSS` `Netlify` `HTML` `CSS` `JS` ~ [@guyariely](https://github.com/guyariely)                                           | [here](https://finder-clone.netlify.app)              |
-| 05.  | [macOS/Windows](https://github.com/gabrielbull/react-desktop)      | React UI Components for macOS High Sierra and Windows 10 <br> `React` `JS` ~ [@gabrielbull](https://github.com/GabrielBull)                                                                                                                                        | [here](http://reactdesktop.js.org)                    |
-| 06.  | [Macintosh Plus](https://github.com/jsdf/pce)                      | Emulates Mac Plus, IBM PC, & Atari ST in the browser using WebAssembly <br> `C` `Makefile` `Assembly` `JS` ~ [@jsdf](https://github.com/jsdf)                                                                                                                      | [here](http://jamesfriend.com.au/pce-js/pce-js-apps/) |
-
-
 
  **[`^top^`](#)**
 
@@ -134,6 +120,25 @@
 
 
  <hr>
+ 
+ 
+ 
+ 
+##  MACINTOSH
+
+
+| Nos. | Repo    | Description            | Demo/Docs          |
+| ---- | :------------------ | :------------------ | :-------- |
+| 01.  | [macOS Monterey](https://github.com/PuruVJ/macos-web)              | This open source project aims to replicate some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte. <br> `Svelte` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ](https://github.com/PuruVJ)                      | [here](https://macos.vercel.app)                      |
+| 02.  | [macOS Monterey](https://github.com/puruvj/macos-preact)          | (Legacy)This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like <br> `Preact` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ](https://github.com/PuruVJ) | [here](https://macos-preact.vercel.app)               |
+| 03.  | [macOS BigSur](https://github.com/Renovamen/playground-macos)     | Portfolio website simulating macOS's GUI, developed with React and Tailwind CSS. <br> ` React` `Redux` `Tailwind CSS` `TS` `HTML` `JS` ~ [@Renovamen](https://github.com/Renovamen)                                                                                | [here](https://portfolio.zxh.io)                      |
+| 04.  | [macOS Catalina Finder](https://github.com/guyariely/finder-clone) | A (bare bone!) clone of the macOS "Finder" app (the macOS equivalent of Windows "File Explorer"). Built with React and Sass <br> `React` `SCSS` `Netlify` `HTML` `CSS` `JS` ~ [@guyariely](https://github.com/guyariely)                                           | [here](https://finder-clone.netlify.app)              |
+| 05.  | [macOS/Windows](https://github.com/gabrielbull/react-desktop)      | React UI Components for macOS High Sierra and Windows 10 <br> `React` `JS` ~ [@gabrielbull](https://github.com/GabrielBull)                                                                                                                                        | [here](http://reactdesktop.js.org)                    |
+| 06.  | [Macintosh Plus](https://github.com/jsdf/pce)                      | Emulates Mac Plus, IBM PC, & Atari ST in the browser using WebAssembly <br> `C` `Makefile` `Assembly` `JS` ~ [@jsdf](https://github.com/jsdf)                                                                                                                      | [here](http://jamesfriend.com.au/pce-js/pce-js-apps/) |
+
+
+ 
+ 
  
  
  ## 💾 INDIE-OS
