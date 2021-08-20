@@ -134,6 +134,8 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  
  
  ## 💾 INDIE-OS
+ 
+ 
  | Nos. | Repo        | Description    | Demo/Docs   |
 | ---- | :---------- | :----------------------- | :------------- |
 | 01.  | [ZINE OS](https://github.com/STRd6/zine)                                | DIY E-Zine and Operating System <br> `HTML5` `CSS` `CoffeeScript` ~ [@STRd6](https://github.com/STRd6)                                                                                                                                     | [here](https://whimsy.space)                                          |
