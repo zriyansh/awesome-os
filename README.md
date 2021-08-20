@@ -171,6 +171,7 @@
  
  
  
+ 
 ## 🌍 BROWSERS
 
 | Logo                                                                                                                                                                                    | Company               | Name              | Rendering Engine |
