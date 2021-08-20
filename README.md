@@ -43,7 +43,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  - [FOR WHOM](#for-whom)
  - [CONTRIBUTING](#contributing)
  - [WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?](#what-is-the-answer-to-life-the-universe-and-everything)
- - [ATWOOD'S-LAW](#atwoods-law)
+ - [ATWOOD'S-LAW](#atwoods-law-here)
  - [TODO](#todo)
 
  
@@ -131,8 +131,8 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  |01. | [Ubuntu 20.04]( https://github.com/vivek9patel/vivek9patel.github.io ) | Personal portfolio website of theme Ubuntu 20.04, made using React.js & tailwind CSS  <br> `React` `Tailwind CSS` `JS` ~ [@Vivek9Patel]( https://github.com/vivek9patel)| [here]( https://vivek9patel.github.io )
  |02. | coming soon | some wordy text 
  
-  **[`^top^`](#)**
-
+ 
+ **[`^top^`](#)**
 
  <hr>
  
@@ -148,7 +148,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  |06. | [jQuery Desktop OS](https://github.com/nathansmith/jQuery-Desktop) | JavaScript desktop environment built with jQuery + HTML5. <br>   `HTML` `jQuery` `CSS` `JS` ~ [@nathansmith](https://github.com/nathansmith) | [here]( https://desktop.sonspring.com )
 
  
-   **[`^top^`](#)**
+ **[`^top^`](#)**
  
  <hr>
  
@@ -159,7 +159,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  |01. | [VIM.JS ](https://github.com/coolwanglu/vim.js) | JavaScript port of Vim <br>   `C` `VimScript` `MakeFile` ` Prolog` `C++` `PS` ~ [@coolwanglu](https://github.com/coolwanglu) | [here]( http://coolwanglu.github.io/vim.js/emterpreter/vim.html )
  
  
-   **[`^top^`](#)**
+ **[`^top^`](#)**
  
  <hr>
  
@@ -182,10 +182,12 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
 | <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari.png" alt="Safari" />                                                    | Apple                 | [Safari](https://www.apple.com/in/safari/)            | WebKit           | 
 | <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/brave/brave.svg" alt="Brave" />                                                       | Brave Software        | [Brave](https://brave.com)             | Blink            | 
 | <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/vivaldi/vivaldi.svg" alt="Vivaldi" />                                                 | Vivaldi Technologies  | [Vivaldi](https://vivaldi.com)           | Blink            | 
- 
+
+
+ **[`^top^`](#)**
   
   
-  <hr>
+ <hr>
   
  
 ## ✨ &nbsp;BUILT WITH:
@@ -229,10 +231,20 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  - [PLSQL](https://www.tutorialspoint.com/plsql/index.htm)
  - [Matlab](https://www.mathworks.com/products/matlab.html)
  
+   
+   
+ **[`^top^`](#)**
+ 
+ <hr>
+ 
  
 ## FOR-WHOM?
 
 For everyone, really. Here everyone can find their favourite taste of Operating System. Have fun exploring and if you find some cool projects like these which are missing here then do tell us!. 
+
+
+**[`^top^`](#)** 
+
 
 <hr>
  
@@ -242,6 +254,9 @@ If you find something which doesn't make sense, or something doesn't seem right,
 
 Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. You should also remember about this:
 
+
+**[`^top^`](#)**
+ 
  <hr>
  
 ## WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?
@@ -251,11 +266,17 @@ Before adding a pull request, please see the **[contributing guidelines](.github
  
  Thanks [@blueedgetechno]( https://github.com/blueedgetechno ) for this!
 
+
+**[`^top^`](#)**
+  
 <hr>
  
 ## ATWOOD'S LAW [here](https://www.reddit.com/r/atwoodslaw/)
   - Any application that can be written in JavaScript, will eventually be written in JavaScript. - Jeff Atwood (2007) 
  
+ 
+**[`^top^`](#)**
+  
  <hr>
  
 ```diff
