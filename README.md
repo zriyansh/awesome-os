@@ -34,7 +34,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  
 
 # CONTENTS
- - [WINDOWS]()
+ - [WINDOWS](#--windows)
  - [MACINTOSH]()
  - [LINUX]()
  - [INDIE-OS]()
