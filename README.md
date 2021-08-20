@@ -4,20 +4,7 @@
 
 
 
-##   :octocat:    An awesome list that curates the best of all big and small open source projects on
-
-
-
-- [Windows](https://github.com/prik-k/awesome-OS#-windows)
-- [MacOS](https://github.com/prik-k/awesome-OS#-macintosh) 
-- [Linux](https://github.com/prik-k/awesome-OS#-linux)  
-- [Indie-OSs](https://github.com/prik-k/awesome-OS#-INDIE-OSs)
-- [Others]()
-
-
-
-
-## operating systems, their software and more by these [heros](https://github.com/prik-k/awesome-OS/discussions/4).🎉
+##   :octocat:    An awesome list that curates the best of all big and small open source projects on [Windows](https://github.com/prik-k/awesome-OS#-windows) | [MacOS](https://github.com/prik-k/awesome-OS#-macintosh) | [Linux](https://github.com/prik-k/awesome-OS#-linux) |  [Indie-OSs](https://github.com/prik-k/awesome-OS#-INDIE-OSs) operating systems, their software and more contributed by these [heros](https://github.com/prik-k/awesome-OS/discussions/4).🎉
 
 
 
@@ -46,7 +33,22 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
 
  
 
-# <img src="media/icons8-windows-11-48.png" alt="logo" width="36"/>  WINDOWS
+# CONTENTS
+ - WINDOWS
+ - MACINTOSH
+ - LINUX
+ - INDIE-OS
+ - OTHER PROGRAMS
+ - BROWSERS
+ - FOR WHOM
+ - CONTRIBUTING
+ - WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?
+ - ATWOOD'S LAW
+ - TO-DO
+
+ 
+
+## <img src="media/icons8-windows-11-48.png" alt="logo" width="36"/>  WINDOWS
  
  
  |Nos. |  Repo |  Description  | Demo/Docs 
@@ -100,7 +102,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  
  
  
-#  MACINTOSH
+##  MACINTOSH
 
 
  |Nos. |  Repo |  Description  | Demo/Docs 
@@ -122,7 +124,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  
  
  
-# <img src="media/linux.png" alt="logo" width="36"/>  LINUX 
+## <img src="media/linux.png" alt="logo" width="36"/>  LINUX 
  
  |Nos. |  Repo | Description | Demo/Docs 
  |--- | :---- | :--------- | :----------
@@ -135,7 +137,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  <hr>
  
  
- # 💾 INDIE-OSs
+ ## 💾 INDIE-OS
  |Nos. |  Repo | Description | Demo/Docs 
  |--- | :---- | :--------- | :----------
  |01. | [ZINE OS](https://github.com/STRd6/zine) | DIY E-Zine and Operating System <br> `HTML5`  `CSS` `CoffeeScript` ~ [@STRd6](https://github.com/STRd6) | [here]( https://whimsy.space )
@@ -151,7 +153,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  <hr>
  
  
- # Other
+ ## OTHER-PROGRAMS
  |Nos. |  Repo | Description | Demo/Docs 
  |--- | :---- | :--------- | :----------
  |01. | [VIM.JS ](https://github.com/coolwanglu/vim.js) | JavaScript port of Vim <br>   `C` `VimScript` `MakeFile` ` Prolog` `C++` `PS` ~ [@coolwanglu](https://github.com/coolwanglu) | [here]( http://coolwanglu.github.io/vim.js/emterpreter/vim.html )
@@ -163,7 +165,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  
  
  
-# 🌍 BROWSERs
+## 🌍 BROWSERS
 | Logo                                                                                                                                                                                    | Company               | Name              | Rendering Engine |
 | :---:                                                                                                                                                                                   | :---                  | :---              | :---             |
 | <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11.svg" alt="Internet Explorer" /> | Microsoft             | [Internet Explorer](https://www.microsoft.com/en-in/download/internet-explorer.aspx) | [Trident](https://en.wikipedia.org/wiki/Trident_(software))          
@@ -186,7 +188,7 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
   <hr>
   
  
-## ✨ &nbsp;Built With:
+## ✨ &nbsp;BUILT WITH:
  - [React](https://reactjs.org)
  - [Preact](https://preactjs.com)
  - [ViteJs](https://vitejs.dev)
@@ -228,13 +230,13 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  - [Matlab](https://www.mathworks.com/products/matlab.html)
  
  
-## For whom?
+## FOR-WHOM?
 
 For everyone, really. Here everyone can find their favourite taste of Operating System. Have fun exploring and if you find some cool projects like these which are missing here then do tell us!. 
 
 <hr>
  
-## Contributing
+## CONTRIBUTING
 
 If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
 
@@ -242,7 +244,7 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 
  <hr>
  
-## What is the answer of Life, the Universe, and Everything?
+## WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?
   - it's 42
 
     ![answer](media/answer.png)
@@ -251,7 +253,7 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 
 <hr>
  
-## [Atwood's Law](https://www.reddit.com/r/atwoodslaw/)
+## ATWOOD'S LAW [here](https://www.reddit.com/r/atwoodslaw/)
   - Any application that can be written in JavaScript, will eventually be written in JavaScript. - Jeff Atwood (2007) 
  
  <hr>
@@ -265,7 +267,7 @@ All **suggestions/PR** are welcome!
 
  
  
-##  To Do
+##  TODO
  - [ ] Add Microsoft Windows logo emoji
  - [x] Add mentions to the original repository admins 
  - [ ] Add new stuff
