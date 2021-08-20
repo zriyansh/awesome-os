@@ -127,7 +127,6 @@
 | ---- | :-------- | :----------------- | :------------------ |
 | 01.  | [Ubuntu 20.04](https://github.com/vivek9patel/vivek9patel.github.io) | Personal portfolio website of theme Ubuntu 20.04, made using React.js & tailwind CSS <br> `React` `Tailwind CSS` `JS` ~ [@Vivek9Patel](https://github.com/vivek9patel) | [here](https://vivek9patel.github.io) |
 
-| 02.  | coming soon                                                          | some wordy text   |                                                                                        
 
 
  **[`^top^`](#)**
@@ -140,7 +139,7 @@
  ## 💾 INDIE-OS
  
  
- | Nos. | Repo        | Description    | Demo/Docs   |
+| Nos. | Repo        | Description    | Demo/Docs   |
 | ---- | :---------- | :----------------------- | :------------- |
 | 01.  | [ZINE OS](https://github.com/STRd6/zine)                                | DIY E-Zine and Operating System <br> `HTML5` `CSS` `CoffeeScript` ~ [@STRd6](https://github.com/STRd6)                                                                                                                                     | [here](https://whimsy.space)                                          |
 | 02.  | [OS.JS](https://github.com/os-js/OS.js)                                 | OS.js is an open-source web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more. <br> `Shell` `Dockerfile` `ejs` `CSS` `JS` ~ [@os-js](https://github.com/os-js)                  | [here](https://demo.os-js.org)                                        |
