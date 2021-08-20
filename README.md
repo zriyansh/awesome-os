@@ -126,9 +126,13 @@
 | Nos. | Repo     | Description         | Demo/Docs          |
 | ---- | :-------- | :----------------- | :------------------ |
 | 01.  | [Ubuntu 20.04](https://github.com/vivek9patel/vivek9patel.github.io) | Personal portfolio website of theme Ubuntu 20.04, made using React.js & tailwind CSS <br> `React` `Tailwind CSS` `JS` ~ [@Vivek9Patel](https://github.com/vivek9patel) | [here](https://vivek9patel.github.io) |
-| 02.  | coming soon                                                          | some wordy text                                                                                                                                                        |
+
+| 02.  | coming soon                                                          | some wordy text   |                                                                                        
+
 
  **[`^top^`](#)**
+
+
 
  <hr>
  
@@ -145,12 +149,15 @@
 | 05.  | [WebDesktop OS](https://github.com/shmuelhizmi/web-desktop-environment) | a web-based cross-platform desktop environment <br> `React` `NodeJs` `TS` `JS` ~ [@shmuelhizmi](https://github.com/shmuelhizmi)                                                                                                            | [here](http://http.web-desktop.run)                                   |
 | 06.  | [jQuery Desktop OS](https://github.com/nathansmith/jQuery-Desktop)      | JavaScript desktop environment built with jQuery + HTML5. <br> `HTML` `jQuery` `CSS` `JS` ~ [@nathansmith](https://github.com/nathansmith)                                                                                                 | [here](https://desktop.sonspring.com)                                 |
 
+  
+  
  **[`^top^`](#)**
+ 
  
  <hr>
  
  
- ## OTHER-PROGRAMS
+##  OTHER-PROGRAMS
  
 | Nos. | Repo      | Description       | Demo/Docs         |
 | ---- | :----------- | :------------- | :------------- |
@@ -164,6 +171,7 @@
  
  
 ## 🌍 BROWSERS
+
 | Logo                                                                                                                                                                                    | Company               | Name              | Rendering Engine |
 | :---:                                                                                                                                                                                   | :---                  | :---              | :---             |
 | <img loading="lazy" width="24" height="24" src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11.svg" alt="Internet Explorer" /> | Microsoft             | [Internet Explorer](https://www.microsoft.com/en-in/download/internet-explorer.aspx) | [Trident](https://en.wikipedia.org/wiki/Trident_(software))          
