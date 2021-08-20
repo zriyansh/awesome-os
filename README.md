@@ -34,17 +34,17 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
  
 
 # CONTENTS
- - WINDOWS
- - MACINTOSH
- - LINUX
- - INDIE-OS
- - OTHER PROGRAMS
- - BROWSERS
- - FOR WHOM
- - CONTRIBUTING
- - WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?
- - ATWOOD'S LAW
- - TO-DO
+ - [WINDOWS]()
+ - [MACINTOSH]()
+ - [LINUX]()
+ - [INDIE-OS]()
+ - [OTHER PROGRAMS]()
+ - [BROWSERS]()
+ - [FOR WHOM]()
+ - [CONTRIBUTING]()
+ - [WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?](#what-is-the-answer-to-life-the-universe-and-everything)
+ - [ATWOOD'S-LAW]()
+ - [TO-DO]()
 
  
 
