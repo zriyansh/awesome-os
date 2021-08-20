@@ -36,15 +36,15 @@ Feel free to contribute and star ⭐️ if this was awesome! 🎓
 # CONTENTS
  - [WINDOWS](#--windows)
  - [MACINTOSH](#-MACINTOSH)
- - [LINUX](#-linux)
+ - [LINUX](#--linux)
  - [INDIE-OS](#-indie-os)
  - [OTHER PROGRAMS](#other-programs)
  - [BROWSERS](#-browsers)
  - [FOR WHOM](#for-whom)
- - [CONTRIBUTING](#-contributing)
- - [WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?](#-what-is-the-answer-to-life-the-universe-and-everything)
- - [ATWOOD'S-LAW](#-atwoods-law)
- - [TODO](#-todo)
+ - [CONTRIBUTING](#contributing)
+ - [WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?](#what-is-the-answer-to-life-the-universe-and-everything)
+ - [ATWOOD'S-LAW](#atwoods-law)
+ - [TODO](#todo)
 
  
 
