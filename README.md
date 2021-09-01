@@ -38,7 +38,7 @@
  - [MACINTOSH](#-macintosh)
  - [LINUX](#--linux)
  - [INDIE-OS](#-indie-os)
- - [OTHER PROGRAMS](#other-sources)
+ - [OTHER SOURCES](#other-sources)
  - [BROWSERS](#-browsers)
  - [FOR WHOM](#for-whom)
  - [CONTRIBUTING](#contributing)
