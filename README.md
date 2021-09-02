@@ -51,7 +51,7 @@
 ## <img src="media/icons8-windows-11-48.png" alt="logo" width="36"/>  WINDOWS
  
 
-| Nos. | Repo    | Description    | Demo/Docs    |
+| N. | Repo    | Description    | Demo/Docs    |
 | ---- | :----------------- | :--------------- | :--------- |
 | 01.  | [windows11](https://github.com/Rajaniraiyn/windows11) <br>                  | Want to experience Windows 11 now within your browser? <br> `HTML` `CSS` `JS` ~ [@Rajaniraiyn](https://github.com/Rajaniraiyn)                                                                                                                                                                                                                                                                                                                        | [here](https://rajaniraiyn.github.io/windows11)                         |
 | 02.  | [windows-11-web](https://github.com/PiyushSuthar/Windows-11-Web)                 | Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡ <br> `Preact` `ViteJS` `TS` `Vercel` `HTML` `CSS` `JS` ~ [@PiyushSuthar](https://github.com/PiyushSuthar)                                                                                                                                                                                                                                                           | [here](https://win11.vercel.app)                                        |
@@ -113,7 +113,7 @@
 ##  MACINTOSH
 
 
-| Nos. | Repo    | Description            | Demo/Docs          |
+| N. | Repo    | Description            | Demo/Docs          |
 | ---- | :------------------ | :------------------ | :-------- |
 | 01.  | [macOS-web](https://github.com/PuruVJ/macos-web)              | This open source project aims to replicate some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte. <br> `Svelte` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ](https://github.com/PuruVJ)                      | [here](https://macos.vercel.app)                      |
 | 02.  | [macOS-preact](https://github.com/puruvj/macos-preact)          | (Legacy)This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like <br> `Preact` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ](https://github.com/PuruVJ) | [here](https://macos-preact.vercel.app)               |
@@ -151,7 +151,7 @@
  ## 💾 INDIE-OS
  
  
-| Nos. | Repo        | Description    | Demo/Docs   |
+| N. | Repo        | Description    | Demo/Docs   |
 | ---- | :---------- | :----------------------- | :------------- |
 | 01.  | [zine](https://github.com/STRd6/zine)                                | DIY E-Zine and Operating System <br> `HTML5` `CSS` `CoffeeScript` ~ [@STRd6](https://github.com/STRd6)                                                                                                                                     | [here](https://whimsy.space)                                          |
 | 02.  | [OS.JS](https://github.com/os-js/OS.js)                                 | OS.js is an open-source web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more. <br> `Shell` `Dockerfile` `ejs` `CSS` `JS` ~ [@os-js](https://github.com/os-js)                  | [here](https://demo.os-js.org)                                        |
@@ -171,7 +171,7 @@
  
 ##  OTHER-SOURCES
  
-| Nos. | Repo      | Description       | Demo/Docs         |
+| N. | Repo      | Description       | Demo/Docs         |
 | ---- | :----------- | :------------- | :------------- |
 | 01.  | [vim.js](https://github.com/coolwanglu/vim.js) | JavaScript port of Vim <br> `C` `VimScript` `MakeFile` ` Prolog` `C++` `PS` ~ [@coolwanglu](https://github.com/coolwanglu) | [here](http://coolwanglu.github.io/vim.js/emterpreter/vim.html) |
 
