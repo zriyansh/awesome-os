@@ -313,6 +313,7 @@ All **suggestions/PR** are welcome!
  - [ ] Add Microsoft Windows logo emoji
  - [x] Add mentions to the original repository admins 
  - [ ] Add new stuff
+ - [ ] Add my favourites for outstanding projects
 
  
  
