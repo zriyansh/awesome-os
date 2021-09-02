@@ -159,7 +159,7 @@
 | 04.  | [AaronOS](https://github.com/MineAndCraft12/AaronOS)                   | This is a public repository of AaronOS, so that the public can more easily suggest contributions, and so I can be more transparent in the development of aOS. <br> `PHP` `CSS` `JS` ~ [@MineAndCraft12](https://github.com/MineAndCraft12) | [here](https://aaronos.dev/AaronOS/aosBeta.php)                       |
 | 05.  | [web-Desktop-environment](https://github.com/shmuelhizmi/web-desktop-environment) | A web-based cross-platform desktop environment <br> `React` `NodeJs` `TS` `JS` ~ [@shmuelhizmi](https://github.com/shmuelhizmi)                                                                                                            | [here](http://http.web-desktop.run)                                   |
 | 06.  | [jQuery-Desktop](https://github.com/nathansmith/jQuery-Desktop)      | JavaScript desktop environment built with jQuery + HTML5. <br> `HTML` `jQuery` `CSS` `JS` ~ [@nathansmith](https://github.com/nathansmith)                                                                                                 | [here](https://desktop.sonspring.com)                                 |
-| 07.  | AlterVista | A serious but hybrid indie OS |[here](http://altaica.altervista.org)|
+
 
   
   
