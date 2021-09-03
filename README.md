@@ -4,7 +4,7 @@
 
 
 
-####   :octocat:    An awesome list that curates the best of all big and small open source projects on [Windows](https://github.com/prik-k/awesome-OS#-windows) | [MacOS](https://github.com/prik-k/awesome-OS#-macintosh) | [Linux](https://github.com/prik-k/awesome-OS#-linux) |  [Indie](https://github.com/prik-k/awesome-OS#-INDIE-OSs) operating systems, their software and more contributed by these [heros](https://github.com/prik-k/awesome-OS/discussions/4).🎉
+####   :octocat:    An awesome list that curates the best of all big and small open and closed source projects(170 in total) on [Windows](https://github.com/prik-k/awesome-OS#-windows) | [MacOS](https://github.com/prik-k/awesome-OS#-macintosh) | [Linux](https://github.com/prik-k/awesome-OS#-linux) |  [Indie](https://github.com/prik-k/awesome-OS#-INDIE-OSs) operating systems, their software and more contributed by these [heros](https://github.com/prik-k/awesome-OS/discussions/4).🎉
 
 
 
@@ -26,7 +26,7 @@
   <a href="https://twitter.com/priyanskhodiyar">Priyansh</a> and
   <a href="https://github.com/prik-k/awesome-OS-clones/graphs/contributors">contributors</a>
  </sub>
-  <p>Feel free to contribute and star ⭐️ if this was awesome!</p>
+  <p>Feel free to find bug, give feedback, contribute similar projects and star ⭐️ if this was awesome!</p>
 </div>
 
 
