@@ -38,6 +38,8 @@
  - [MACINTOSH](#-macintosh)
  - [LINUX](#--linux)
  - [INDIE-OS](#-indie-os)
+ - [PORTFOLIO/PERSONAL0OS](#-portfoliopersonal-os)
+ - [GOOD-OLD-OSs](#good-old-oss)
  - [OTHER SOURCES](#other-sources)
  - [BROWSERS](#-browsers)
  - [FOR WHOM](#for-whom)
@@ -188,7 +190,7 @@
 | 05.  | [web-Desktop-environment](https://github.com/shmuelhizmi/web-desktop-environment) | A web-based cross-platform desktop environment <br> `React` `NodeJs` `TS` `JS` ~ [@shmuelhizmi](https://github.com/shmuelhizmi)                                                                                                            | [here](http://http.web-desktop.run)                                   |
 | 06.  | [jQuery-Desktop](https://github.com/nathansmith/jQuery-Desktop)      | JavaScript desktop environment built with jQuery + HTML5. <br> `HTML` `jQuery` `CSS` `JS` ~ [@nathansmith](https://github.com/nathansmith)                                                                                                 | [here](https://desktop.sonspring.com)                                 |
 | 07.  | [serenity](https://github.com/SerenityOS/serenity)              | SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core. It flatters with sincerity by stealing beautiful ideas from various other systems <br>  `C++` `C`  `shell` `CMake` `HTML` `JS` ~ [@SerenityOS](https://github.com/SerenityOS)                      | [here](https://serenityos.org)                      |
-| 07.  | [curve-contract](https://github.com/curvefi/curve-contract)              | Vyper contracts used in Curve.fi exchange pools. <br>  `python` `solidity` ~ [@curvefi](https://github.com/curvefi)                      | [here](https://curve.fi)                      |
+| 08.  | [curve-contract](https://github.com/curvefi/curve-contract)              | Vyper contracts used in Curve.fi exchange pools. <br>  `python` `solidity` ~ [@curvefi](https://github.com/curvefi)                      | [here](https://curve.fi)                      |
 | 09.  | [KodExplorer](https://github.com/kalcaddle/KodExplorer)              |  A web based file manager, web IDE / browser based code editor! <br>  `PHP` `CSS` `HTML` `JS` ~ [@kalcaddle](https://github.com/kalcaddle)                      | [here](http://demo.kodcloud.com/#desktop)                      |
 | 10.  | virusAV              | VirusAV OS - An indie OS written by Keito | [here](https://os.virusav.com)                      |
 | 11.  | The Poolsuite            |FM, mixtapes, vacation, store in an indie web-desktop format                      | [here](https://poolsuite.net)                      |
