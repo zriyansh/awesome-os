@@ -99,6 +99,46 @@
 | 44. |retro-fonts| All old school fonts ever to be found on the Web 1.0 Internet|[here](https://int10h.org/oldschool-pc-fonts/fontlist/)|
 | 45. |Screenshot OS | Screenshots, timelines, icons, sound, etc collection of all legacy Operating Systems ever to exist |[here](https://guidebookgallery.org/guis/windows/ )|
 
+| 01.  | [vue-window](https://github.com/michitaro/vue-window)              | This package is an implementation of window UI for PC environment as a Vue Component.. <br>  `TS` `Vue` `HTML` `JS` ~ [@michitaro](https://github.com/michitaro)                      | [here](https://michitaro.github.io/vue-window/?Sample31)                      |
+
+| 01.  | [fake-ie](https://github.com/partiellkorrekt/fake-ie)              | Simulate an old version of Internet Explorer on iOS <br>  `TS` `java` `objective-C` `Starlark` `ruby` `JS` ~ [@partiellkorrekt](https://github.com/partiellkorrekt)                      | [here](https://theoldnet.com)                      |
+
+
+| 01.  | [bubbles](https://github.com/khang-nd/bubbles)              | A recreation of Windows Bubbles screensaver. <br>   `HTML` `JS` ~ [@khang-nd](https://github.com/khang-nd)                      | [here](https://khang-nd.github.io/bubbles/)                      |
+
+
+| 01.  | [Chicago95](https://github.com/grassmunk/Chicago95)              | A rendition of everyone's favorite 1995 Microsoft operating system for Linux. <br>  `CSS` `python` `HTML` `JS` ~ [@grassmunk](https://github.com/grassmunk)                      | [download](https://github.com/grassmunk/Chicago95/releases)                      |
+
+
+| 01.  | [ui95](https://github.com/AshKyd/ui95)              | 🖥 WIP: A preact implementation of Windows 95/98/ME style components and apps<br> `CSS` `HTML` `JS` ~ [@AshKyd](https://github.com/AshKyd)                      | [here](https://ash.ms)                      |
+
+
+
+| 01.  | Nightwave Plaza             | Nightwave Plaza is a free 24/7 online old Windows inspired vaporwave radio station. The broadcast also includes some future funk and experimental genres. We hope you enjoy.                      | [here](https://plaza.one)                      |
+
+
+
+| 01.  | geek-prank             | Online Windows XP simulator that runs in your web browser. Activate full screen and play Minesweeper, Tetris and listen to some music in Winamp. Also prank your friends by loading this site.  | [here](https://pranx.com/windows-xp-simulator/)                      |
+
+
+
+| 01.  | [afterstep](https://github.com/afterstep/afterstep/)              | AfterStep is a window manager for the Unix X Window System. Originally based on the look and feel of the NeXTStep interface.    <br>   `C` `Shell` `C++` ~ [@afterstep](https://github.com/afterstep)                        | [here](http://www.afterstep.org/index.php)                      |
+
+
+| 01.  |[wmaker](https://github.com/window-maker/wmaker)              | Window Maker is an X11 window manager originally designed to provide integration support for the GNUstep Desktop Environment <br>  `C` `Perl`  ~ [@window-maker](https://github.com/window-maker)                      | [here](http://www.windowmaker.org)                      |
+
+| 01.  | eat-sleep-work              | A windows styled EatSleepWork.com is your brand partner to be bold, be different and be interesting. We cultivate relationships and together we can change design.                      | [here](https://www.eatsleepwork.com)                      |
+
+
+
+| 01.  | win98-icons          | Windows 98 Icons viewer                      | [here](https://win98icons.alexmeub.com)                      |
+
+
+| 01.  | win95              | Windows95 replica with a cat! Visit decades old webpage of popular sites like Apple and Google.              | [here](https://derplayer.neocities.org/repo/win/#)                      |
+
+
+| 01.  | [The Indie Web](https://github.com/tholman/the-indie-web)       |  A windows inspired blogging site      <br>   `CSS` `HTML` `JS` ~ [@tholman](https://github.com/tholman)               | [here](https://theindieweb.com)                      |
+| 01.  | [90's Cursor Effects](https://github.com/tholman/cursor-effects)              | Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet. <br>   `JS` ~ [@tholman](https://github.com/tholman)                      | [here](https://tholman.com/cursor-effects/)                      |
 
  
   **[`^top^`](#)**
@@ -124,6 +164,10 @@
 | 06.  | [pce](https://github.com/jsdf/pce)                      | Emulates Mac Plus, IBM PC, & Atari ST in the browser using WebAssembly <br> `C` `Makefile` `Assembly` `JS` ~ [@jsdf](https://github.com/jsdf)                                                                                                                      | [here](http://jamesfriend.com.au/pce-js/pce-js-apps/) |
 | 07. |  [xOS_webtop](https://en.wikipedia.org/wiki/XOS_Webtop ) | A web based macOS inspired OS mockup |   [here](https://en.wikipedia.org/wiki/XOS_Webtop ) |
  
+
+| 01.  | MacPaint             | Macpaint.org serves as a historical gallery and contemporary directory of artwork produced using Macpaint.                      | [here](http://www.macpaint.org/blog/)                      |
+
+
  
 
  **[`^top^`](#)**
@@ -159,9 +203,31 @@
 | 04.  | [AaronOS](https://github.com/MineAndCraft12/AaronOS)                   | This is a public repository of AaronOS, so that the public can more easily suggest contributions, and so I can be more transparent in the development of aOS. <br> `PHP` `CSS` `JS` ~ [@MineAndCraft12](https://github.com/MineAndCraft12) | [here](https://aaronos.dev/AaronOS/aosBeta.php)                       |
 | 05.  | [web-Desktop-environment](https://github.com/shmuelhizmi/web-desktop-environment) | A web-based cross-platform desktop environment <br> `React` `NodeJs` `TS` `JS` ~ [@shmuelhizmi](https://github.com/shmuelhizmi)                                                                                                            | [here](http://http.web-desktop.run)                                   |
 | 06.  | [jQuery-Desktop](https://github.com/nathansmith/jQuery-Desktop)      | JavaScript desktop environment built with jQuery + HTML5. <br> `HTML` `jQuery` `CSS` `JS` ~ [@nathansmith](https://github.com/nathansmith)                                                                                                 | [here](https://desktop.sonspring.com)                                 |
+| 01.  | [serenity](https://github.com/SerenityOS/serenity)              | SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core. It flatters with sincerity by stealing beautiful ideas from various other systems <br>  `C++` `C`  `shell` `CMake` `HTML` `JS` ~ [@SerenityOS](https://github.com/SerenityOS)                      | [here](https://serenityos.org)                      |
+| 01.  | [curve-contract](https://github.com/curvefi/curve-contract)              | Vyper contracts used in Curve.fi exchange pools. <br>  `python` `solidity` ~ [@curvefi](https://github.com/curvefi)                      | [here](https://curve.fi)                      |
+| 01.  | [KodExplorer](https://github.com/kalcaddle/KodExplorer)              |  A web based file manager, web IDE / browser based code editor! <br>  `PHP` `CSS` `HTML` `JS` ~ [@kalcaddle](https://github.com/kalcaddle)                      | [here](http://demo.kodcloud.com/#desktop)                      |
+| 01.  | virusAV              | VirusAV OS - An indie OS written by Keito | [here](https://os.virusav.com)                      |
+| 01.  | The Poolsuite            |FM, mixtapes, vacation, store in an indie web-desktop format                      | [here](https://poolsuite.net)                      |
+| 01.  | DSM            | A feature-rich and intuitive NAS operating system | [here](https://a41.dsm7demo.synology.com:5001)                      |
+| 01.  | [itisasifyouweredoingwork](https://github.com/pippinbarr/itisasifyouweredoingwork)              | Play It is as if you were doing work in your browser (mostly likely mobile-unfriendly, sorry (login with any credential)) <br>   `CSS` `HTML` `JS` ~ [@pippinbarr](https://github.com/pippinbarr)                      | [here](https://pippinbarr.github.io/itisasifyouweredoingwork/)                      |
+
+| 01.  | frankenSim             | Tools for Postmodern Prometheus, a web toy                      | [here](http://frankensim.animade.tv)                      |
 
 
-  
+| 01.  | Chiptune              | God knows what is this <br>  `dHTML` `JS`                      | [here](http://www.chiptune.com)                      |
+
+| 01.  | [jurassicsystems.com](https://github.com/tojrobinson/jurassicsystems.com)              | HTML5/JavaScript recreation of the original Jurassic Park movie computer system <br>   `CSS` `HTML` `JS` ~ [@tojrobinson](https://github.com/tojrobinson)                      | [here](https://jurassicsystems.com)                      |
+
+
+| 01.  | CloudDesk              | CloudDesk is an online desktop made for multi-tasking, with multiple useful tools. It has the modern look of the Google UI, and the power of the latest codes used for web development.                      | [here](http://altaica.altervista.org)                      |
+
+ 01.  | [fos](https://github.com/victorqribeiro/fos)              | Web Components to turn your web app into a fake operating system <br>   `Shell` `JS` ~ [@victorqribeiro](https://github.com/victorqribeiro)                      | [here](https://victorribeiro.com)                      |
+
+| 01.  | Nirrius Creative Studio             | A web-desktop inspired studio with a collection of passionate humans that build great products and unforgettable experiences.                     | [here](https://nirri.us)                      |
+
+| 01.  | NyjaOS          | This is a non-linear science fiction story told through a desktop environment. Click around. Read documents. Piece together events as you go along.                   | [here](https://signal3.neocities.org)                      |
+
+
   
  **[`^top^`](#)**
  
@@ -208,10 +274,21 @@
 | 01.  | [websiterevision2017](https://github.com/paultopia/websiterevision2017)              | This is just a total overkill revision of my personal/professional website <br>  `TeX` `Vue` `Jupyter Notebook` `HTML` `JS` ~ [@paultopia](https://github.com/paultopia/)                      | [here](https://gowder.io)                      |
 | 01.  | [homepage](https://github.com/v-y-l/Homepage)              | My personal website <br>  `TS` `CSS` `HTML` `JS` ~ [@v-y-l](https://github.com/v-y-l)                      | [here](https://www.vyl.app)                      |
 | 01.  | [syxanash.github.io](https://github.com/syxanash/syxanash.github.io)              | A windows retro personal website <br>   `CSS` `HTML` `JS` ~ [@syxanash](https://github.com/syxanash)                      | [here](https://simone.computer/#/)                      |
+| 01.  | [windows7](https://github.com/khang-nd/windows7)              |Windows 7 Simulation is a small project to simulate the user interface and functionalities of Windows 7 using pure web components and libraries. It supports both desktop and mobile devices. <br>  `SCSS` `JS` ~ [@khang-nd](https://github.com/khang-nd)                      | [here](https://khang-nd.github.io/windows7/)                      |
 
- 
- 
- 
+
+| 01.  | Erik Bernacchi          | The preposterous web portal of erik bernacchi. A portfolio site.                       | [here](http://eeerik.com)                      |
+
+ | 01.  | [expensive.toys](https://github.com/arturbien/React95)              | I'm probably the coolest guy you will ever meet. We can't be friends but I can make you a website! # (516) 326-201 <br>   `JS` ~ [@arturbien](https://github.com/arturbien)                      | [here](https://www.expensive.toys)                      |
+
+
+
+| 01.  | Éric Lévénez's              | Éric Lévénez's site                  | [here](https://www.levenez.com)                      |
+
+
+| 01.  | [Tholman](https://github.com/tholman/tholman)              | THE CURIOUS CREATIONS OF TIM HOLMAN. A cool collection of awesome projects.  <br>  `Ruby` `CSS` `HTML` `JS` ~ [@tholman](https://github.com/tholman)                      | [here](https://tholman.com)                      |
+
+
  
  **[`^top^`](#)**
  
@@ -219,12 +296,52 @@
  <hr>
  
  
+  
+##  GOOD-OLD-OSs
+ 
+| N. | Repo      | Description       | Demo/Docs         |
+| ---- | :----------- | :------------- | :------------- |
+| 01.  | [commodore-64-desktop](https://github.com/ssshake/commodore-64-desktop)              | A desktop for the Commodore 64(one of the first operating system) <br>  `.NET` `batchfile`  ~ [@ssshake](https://github.com/ssshake)                      |  -        |
+ 
+| 01.  | [microweb](https://github.com/jhhoward/MicroWeb)              | DOS Web browser for 8088 class machines <br>  `C++` `C` `Pascal` ~ [@jhhoward](https://github.com/jhhoward)                      | [here](https://github.com/jhhoward/MicroWeb/releases)                      |
+| 01.  | old internet             | The Old Net is an attempt to restore vintage web browsing on vintage computers. It uses the Internet Archive: Wayback Machine API and a proxy that strips out any  incompatible javascript and stitches together as many links as it can.                  | [here](https://theoldnet.com)                      |
+
+| 01.  | the-restart-page](https://github.com/michitaro/vue-menu)              | The Restart Page - Free unlimited rebooting experience from vintage operating systems                 | [here](http://www.therestartpage.com/#)                      |
+
+| 01.  | [nextsite](https://github.com/juddy/nextsite)              | Simple HTML/CSS site mimicing some key NeXT Workspace elements: <br>   `CSS` `HTML` `JS` ~ [@juddy](https://github.com/juddy)                      | [here](https://prik-k.github.io/nextsite/)     |
+
+
+| 01.  | atari-st             | Welcome to the largest Atari ST Resource on the Internet             | [here](http://www.atari.st/index.php)                      |
+
+| 01.  | WorldWideWeb              | This is the first version of the NextStep WorldWideWeb application with the libWWW library. An excercise in global information availability                      | [here](https://worldwideweb.cern.ch/browser/)                      |
+
+
+| 01.  | Cyberspace & Time            | An old internet web portal                       | [here](http://cyberspaceandtime.com/ZgfM9bq2bOI.video+related)                      |
+
+| 01.  | WWWTXT	       | WWWTXT digs deep and resurrects the voices of these digital pioneers as unedited, compelling, and insightful 140-character excerpts.                      | [here](https://wwwtxt.org/about)                      |
+
+
+| 01.  | Bill's World Wide Boutique           | SURF THE WEB LIKE IT'S 1999!  I'm trapped in 1999 on GeoCities! I've made this time portal so you future people can visit my site.                   | [here](https://billsworld.neocities.org/index.html?)                      |
+
+
+
+
+ **[`^top^`](#)**
+ 
+ 
+ <hr>
+ 
  
 ##  OTHER-SOURCES
  
 | N. | Repo      | Description       | Demo/Docs         |
 | ---- | :----------- | :------------- | :------------- |
 | 01.  | [vim.js](https://github.com/coolwanglu/vim.js) | JavaScript port of Vim <br> `C` `VimScript` `MakeFile` ` Prolog` `C++` `PS` ~ [@coolwanglu](https://github.com/coolwanglu) | [here](http://coolwanglu.github.io/vim.js/emterpreter/vim.html) |
+| 01.  | [awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops)              | Websites, web apps, portfolios which look like desktop graphical user interfaces <br>  `markdown` ~ [@syxanash](https://github.com/syxanash)                      | [here](https://simone.computer/#/webdesktops)                      |
+| 01.  | [ssshake](https://github.com/ssshake/retro-computing-internet-resources)              | A list of the various projects to get vintage computers connected to the internet <br>  `markdown` ~ [@ssshake](https://github.com/ssshake)                      | -                      |
+
+| 01.  | [awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX)              | All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more. <br>  `markdown` ~ [@sirredbeard](https://github.com/sirredbeard)                      | -                      |
+
 
  
  **[`^top^`](#)**
