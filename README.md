@@ -169,6 +169,57 @@
  <hr>
  
  
+ 
+ ## 💾 PORTFOLIO/PERSONAL-OS
+ 
+ 
+| N. | Repo        | Description    | Demo/Docs   |
+| ---- | :---------- | :----------------------- | :------------- |
+| 01.  | [Yahya J. Aifit](https://github.com/aifit)              |  An indie OS format of personal website   <br>  `Vue`        | [here](https://yja.me)    |               
+| 02.  | [Dan Yalg](https://github.com/Yalgie/website)              | A fun indie OS format of portfolio website <br>  `CSS` `HTML` `JS` ~ [@Yalgie](https://github.com/Yalgie)                      | [here](https://thecodingforge.com.au)                      |
+| 01.  | Try Andy's Desk              | A Windows 7 inspired personal website                      | [here](https://desk.glitchy.website)                      |
+| 01.  | rexOS              |      An indie OS personal website, loves dogs and has virus.exe oh and can play snake.exe too!            | [here](https://itzrex.neocities.org)                      |
+| 01.  | GopalOS              | A personal OS by Gopal Othayoth of CerebralDatabank™️, can install packages and apps. | [here](https://cerebraldatabank.neocities.org/gopalos.html)                      |
+| 01.  | [Timothy Howard](https://github.com/timhow38/Resume-WebApplication)              | Yet another indie OS portfolio website  <br>  `CSS` `HTML` `JS` ~ [@timhow38](https://github.com/timhow38)                      | [here](https://coreos.io)                      |
+| 01.  | [Heather Vandervecht](https://github.com/heathervv/portfolio-chatbot)              | A Windows 95-esque desktop experience portfolio site with a chat app being the main highlight. <br>  `React` `CSS` `HTML` `JS` ~ [@heathervv](https://github.com/heathervv)                      | [here](https://heathervv.com)                      |
+| 01.  | [Jack Adam](https://github.com/jckdm/jckdm.github.io)              | A Portfolio site that re-creates an old computer interface. <br>  `CSS` `HTML` `JS` ~ [@jckdm](https://github.com/jckdm)          | [here](https://jackadam.cc)                      |
+| 01.  | [D-Antonelli](https://github.com/D-Antonelli/portfolio)              | This is a retro-inspired personal OS, responsive website with client-side applications. <br>  `SCSS` `HTML` `JS` ~ [@D-Antonelli](https://github.com/D-Antonelli)                      | [here](https://elkael.com)                      |
+| 01.  | raccOS 9      |   Violet Procyon  -  An old  macOS format of personal website of a 3d artist. | [here](https://violet.pm)                      |
+| 01.  | scumweb              |       An indie OS format of personal website - flexedupshawty       | [here](https://flexedupshawty.com)                      |
+| 01.  | [Austin Riba.](https://github.com/Fingel)              |      An indie OS format of personal website, terminal navigation.       | [here](http://toxiccode.com)                      |
+| 01.  | [Gustavo Chico](https://github.com/JGustavoChico)              |      An indie OS format of personal website           | [here](https://gustavochico.com/desktop/#)                      |
+| 01.  | Pyramis              | An artists OS                  | [here](https://digital-r41n.neocities.org)                      |
+| 01.  | Racer Trash              | An indie OS format of personal website            | [here](https://racertrash.com/work/#video=gang+gang+gang+gang.mp4)                      |
+| 01.  | ytcracker            | An indie OS format of personal website                 | [here](https://ytcracker.com/v2020/)                      |
+| 01.  | Glass Animals OPEN SOURCE      | A messy Indie OS with a decent functionality and fascination.                      | [here](https://opensource.glassanimals.com)                      |
+| 01.  | Erd Yakingun              | erdOS powered portfolio website  <br>  `TS` `Nuxt.js` `HTML` `JS`| [here](https://erd-os.iamerd.xyz)                      |
+| 01.  | [Patrick Kage](https://github.com/pkage/pkage.github.io)              | A Windows98 inspired portfolio website <br>  `CSS`  `HTML` `JS` ~ [@pkage](https://github.com/pkage)                      | [here](https://ka.ge)                      |
+| 01.  | Hillary Churchill           | A macOS inspired portfolio website                     | [here](http://hillarychurchill.com)                      |
+| 01.  | Gamithra Marga             | A macOS inspired personal website ~ [@Gamithra](https://github.com/Gamithra)                      | [here](https://gamithra.com)                      |
+| 01.  | Maple Mavic Syrup             |An indie OS inspired personal website                      | [here](https://maple.pet)                      |
+| 01.  | basile             |A yet another windows inspired personal website                      | [here](https://niceware.neocities.org)                      |
+| 01.  | Digital gallery X Kuba              | A Windows inspired digital gallery personal website by Kuba                   | [here](https://n10.as)                      |
+| 01.  | Matthew P Munger              | A macOS inspired portfolio website  - mattOS                   | [here](https://mattos-1.webflow.io)                      |
+| 01.  | Isaac Waller             | A win98 inspired personal website.    | [here](https://waller.is)                      |
+| 01.  | Zach Caceres             | This is a personal portfolio, inspired by the question: "What would the opposite of the two-color template developer blog look like?" ~ [@ zcaceres](https://github.com/zcaceres)                      | [here](https://zach.dev)                      |
+| 01.  | kim-os             | Jack Kim’s OS based resume                     | [here](https://www.jackk.im)                      |
+| 01.  | Mariano Pascual       | Mariano Pascual v.88 is an macOS format resume. | [here](http://www.marianopascual.me/)                      |
+| 01.  | [melkael.github.io](https://github.com/melkael/melkael.github.io)              | A win7 based resume <br>  `CSS`  `HTML` `JS` ~ [@melkael](https://github.com/melkael)                      | [here](https://elkael.com)                      |
+| 01.  | [websiterevision2017](https://github.com/paultopia/websiterevision2017)              | This is just a total overkill revision of my personal/professional website <br>  `TeX` `Vue` `Jupyter Notebook` `HTML` `JS` ~ [@paultopia](https://github.com/paultopia/)                      | [here](https://gowder.io)                      |
+| 01.  | [homepage](https://github.com/v-y-l/Homepage)              | My personal website <br>  `TS` `CSS` `HTML` `JS` ~ [@v-y-l](https://github.com/v-y-l)                      | [here](https://www.vyl.app)                      |
+| 01.  | [syxanash.github.io](https://github.com/syxanash/syxanash.github.io)              | A windows retro personal website <br>   `CSS` `HTML` `JS` ~ [@syxanash](https://github.com/syxanash)                      | [here](https://simone.computer/#/)                      |
+
+ 
+ 
+ 
+ 
+ **[`^top^`](#)**
+ 
+ 
+ <hr>
+ 
+ 
+ 
 ##  OTHER-SOURCES
  
 | N. | Repo      | Description       | Demo/Docs         |
