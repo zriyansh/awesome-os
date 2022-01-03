@@ -414,17 +414,7 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 
 **[`^top^`](#)**
  
- <hr>
- 
-## WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?
-  - it's 42
 
-    ![answer](media/answer.png)
- 
- Thanks [@blueedgetechno]( https://github.com/blueedgetechno ) for this!
-
-
-**[`^top^`](#)**
   
 <hr>
  
