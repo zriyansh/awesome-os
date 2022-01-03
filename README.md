@@ -35,7 +35,6 @@
  - [BROWSERS](#-browsers)
  - [FOR WHOM](#for-whom)
  - [CONTRIBUTING](#contributing)
- - [WHAT IS THE ANSWER TO LIFE, THE UNIVERSE, AND EVERYTHING?](#what-is-the-answer-to-life-the-universe-and-everything)
  - [ATWOOD'S-LAW](#atwoods-law-here)
  - [TODO](#todo)
 
