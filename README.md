@@ -414,15 +414,7 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 **[`^top^`](#)**
  
 
-  
-<hr>
- 
-## ATWOOD'S LAW [here](https://www.reddit.com/r/atwoodslaw/)
-  - Any application that can be written in JavaScript, will eventually be written in JavaScript. - Jeff Atwood (2007) 
- 
- 
-**[`^top^`](#)**
-  
+
  <hr>
  
 ```diff
@@ -434,12 +426,6 @@ All **suggestions/PR** are welcome!
 
  
  
-##  TODO
- - [ ] Add Microsoft Windows logo emoji
- - [x] Add mentions to the original repository admins 
- - [ ] Add new stuff
- - [ ] Add my favourites for outstanding projects
-
  
  
 :shipit:
