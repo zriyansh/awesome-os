@@ -1,6 +1,6 @@
 
 
-# awesome-os 
+# awesome-os [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 </div>
@@ -27,7 +27,7 @@
 
  
 
-## INDEX
+## Contents
  - [WINDOWS](#--windows)
  - [MACINTOSH](#-macintosh)
  - [LINUX](#--linux)
@@ -37,9 +37,7 @@
  - [OTHER SOURCES](#other-sources)
  - [BROWSERS](#-browsers)
  - [FOR WHOM](#for-whom)
- - [CONTRIBUTING](#contributing)
- - [ATWOOD'S-LAW](#atwoods-law-here)
- - [TODO](#todo)
+
 
  
 
