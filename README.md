@@ -292,6 +292,7 @@
 | 11.  | Repeater 2           | repeater.space is an experimental pattern drawing tool. It allows users to easily draw patterns, in a naïve 8-bit-ish style. <br>   `Vue` ~ [@Adi Ron](https://adiron.me)                      | [here](https://repeater.space)                      |
 | 12.  | 56k-modem           |     56k-modem.online Discord server.  Someone said it’s like chat rooms from the 1990s so I just had to set one up.           | [here](https://56k-modem.online)                      |
 | 13.  | AConfusedDragon              | The classic GIFs of past decade.             | [here](https://aconfuseddragon.neocities.org/index.html)                      |
+| 14.  | [Rimet Desktop](https://fasdesktop.neocities.org/rimet)              | Windows-like WebOS with lots of themes.                      | [more here](https://neocities.org)                     |
 
 
 
@@ -311,6 +312,8 @@
 | 04.  | [awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX)              | All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front resources and more. <br>  `markdown` ~ [@sirredbeard](https://github.com/sirredbeard)                      | -                      |
 
 
+
+ 
  
  **[`^top^`](#)**
  
