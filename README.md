@@ -416,7 +416,7 @@ For everyone, really. Here everyone can find their favourite taste of Operating 
 All **suggestions/PR** are welcome!
 
 
- 
+ looking for more? Check this out - https://github.com/jubalh/awesome-os
  
 
  
