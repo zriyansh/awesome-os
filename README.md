@@ -126,7 +126,7 @@
 ##  MACINTOSH
 
 
-| N. | Identifier    | Description            | Live Demo/Docs          |
+| N     | Identifier         | Description          | Live Demo/Docs  |
 | ---- | :------------------ | :------------------ | :-------- |
 | 01.  | [macOS-web](https://github.com/PuruVJ/macos-web)              | This open source project aims to replicate some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte. <br> `Svelte` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ](https://github.com/PuruVJ)                      | [here](https://macos.vercel.app)                      |
 | 02.  | [macOS-preact](https://github.com/puruvj/macos-preact)          | (Legacy)This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like <br> `Preact` `Vite` `TS` `Vercel` `SCSS` `HTML` `CSS` `JS` ~ [@PuruVJ](https://github.com/PuruVJ) | [here](https://macos-preact.vercel.app)               |
