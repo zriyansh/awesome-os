@@ -1,11 +1,4 @@
-
-
 # awesome-os [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
-</div>
-
-
 
 ####   :octocat:    An awesome list that curates the best of all big and small open and closed source projects(170 in total) on [Windows](https://github.com/prik-k/awesome-OS#-windows) | [MacOS](https://github.com/prik-k/awesome-OS#-macintosh) | [Linux](https://github.com/prik-k/awesome-OS#-linux) |  [Indie](https://github.com/prik-k/awesome-OS#-INDIE-OSs) operating systems, their software and more contributed by these [heros](https://github.com/prik-k/awesome-OS/discussions/4).🎉
 
