@@ -262,6 +262,7 @@
 | 39.  | [Hannah Blair](https://github.com/hannahblair)              | A Windows-95 inspired portfolio website                   | [here](https://hannahblair.co.uk)                      |
 | 40.  | [Aimen Rafique–Marsh  ◠‿◠ ✿](https:fdfdfdfdf)              | Some kind of cool blog. Duh                     | [here](https://blog.aimen.me)                      |
 | 41.  | Britney OS’99  | An OS-based website to vote Britney in a past US elections.                    | [here](https://web.archive.org/web/20210105054008/http://itsbritneybot.com/)                      |
+| 42.  | [LevyTerminal](https://github.com/dodio12138/MeTerminal)  | A terminal style portfolio website.                    | [here](https://dodio12138.github.io/MeTerminal/src/index.html)                      |
 
  
  **[`^top^`](#)**
