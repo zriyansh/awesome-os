@@ -13,7 +13,7 @@
   <a href="https://twitter.com/priyanskhodiyar">Priyansh</a> and
   <a href="https://github.com/prik-k/awesome-OS-clones/graphs/contributors">contributors</a>
  </sub>
-  <p>Feel free to find bug, give feedback, contribute similar projects and star ⭐️ if this was awesome!</p>
+  <p>Please do not hesitate to meticulously scrutinize for any potential flaws, offer constructive feedback, collaborate on analogous projects, and bestow a coveted ⭐️ should you find this endeavor to be truly exceptional.</p>
 </div>
 
 
