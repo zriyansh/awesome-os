@@ -204,7 +204,7 @@
 | 34.  | [github95](https://github.com/edwardpayton/github95)              | Your Github  profile. With a Windows 95  style. Built with React 🚀 <br>  `CSS` `HTML` `JS` ~ [@edwardpayton](https://github.com/edwardpayton)                      | [here](https://github95.vercel.app)                      |
 | 35.  | [Fizzygum](https://github.com/davidedc/Fizzygum)              | A new web framework, an entire platform really, designed from the ground up to handle complex things easily. Put the power of an entire Operating System at your fingertips. <br>  `CoffeeScript` `JS` ~ [@davidedc](https://github.com/davidedc)                      | [here](http://fizzygum.org/sandboxes/latest-stable/)                      |
 | 36.  | Puter              | A web-based, cloud operating system. Store, open, and edit your files from anywhere!                      | [here](https://puter.com/)                      |
-
+| 37.  | [Pluto](https://github.com/zeondev/pluto)              | A minimal but functional web OS that aims to provide a desktop environment-like experience inside of a website.                      | [here](https://pluto.zeon.dev)                      |
 
 
 
